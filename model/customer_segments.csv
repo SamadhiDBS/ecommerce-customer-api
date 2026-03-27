@@ -1,0 +1,4289 @@
+CustomerID,Cluster,Segment
+12347.0,3,New/Occasional
+12348.0,0,At-Risk Customers
+12349.0,0,At-Risk Customers
+12350.0,1,VIP Customers
+12352.0,3,New/Occasional
+12353.0,1,VIP Customers
+12354.0,1,VIP Customers
+12355.0,1,VIP Customers
+12356.0,0,At-Risk Customers
+12357.0,3,New/Occasional
+12358.0,0,At-Risk Customers
+12359.0,3,New/Occasional
+12360.0,0,At-Risk Customers
+12361.0,1,VIP Customers
+12362.0,3,New/Occasional
+12363.0,0,At-Risk Customers
+12364.0,0,At-Risk Customers
+12365.0,1,VIP Customers
+12367.0,0,At-Risk Customers
+12370.0,3,New/Occasional
+12371.0,0,At-Risk Customers
+12372.0,0,At-Risk Customers
+12373.0,1,VIP Customers
+12374.0,0,At-Risk Customers
+12375.0,0,At-Risk Customers
+12377.0,1,VIP Customers
+12378.0,3,New/Occasional
+12379.0,0,At-Risk Customers
+12380.0,3,New/Occasional
+12381.0,0,At-Risk Customers
+12383.0,1,VIP Customers
+12384.0,0,At-Risk Customers
+12386.0,1,VIP Customers
+12388.0,3,New/Occasional
+12390.0,0,At-Risk Customers
+12391.0,0,At-Risk Customers
+12393.0,0,At-Risk Customers
+12394.0,0,At-Risk Customers
+12395.0,3,New/Occasional
+12397.0,0,At-Risk Customers
+12398.0,0,At-Risk Customers
+12399.0,0,At-Risk Customers
+12401.0,1,VIP Customers
+12402.0,1,VIP Customers
+12403.0,0,At-Risk Customers
+12405.0,0,At-Risk Customers
+12406.0,3,New/Occasional
+12407.0,0,At-Risk Customers
+12408.0,3,New/Occasional
+12409.0,2,Loyal Regulars
+12410.0,1,VIP Customers
+12412.0,0,At-Risk Customers
+12413.0,0,At-Risk Customers
+12414.0,1,VIP Customers
+12417.0,3,New/Occasional
+12418.0,0,At-Risk Customers
+12420.0,0,At-Risk Customers
+12421.0,0,At-Risk Customers
+12422.0,0,At-Risk Customers
+12423.0,3,New/Occasional
+12424.0,1,VIP Customers
+12425.0,0,At-Risk Customers
+12426.0,1,VIP Customers
+12427.0,0,At-Risk Customers
+12428.0,3,New/Occasional
+12429.0,3,New/Occasional
+12430.0,0,At-Risk Customers
+12431.0,2,Loyal Regulars
+12432.0,3,New/Occasional
+12433.0,2,Loyal Regulars
+12434.0,0,At-Risk Customers
+12435.0,3,New/Occasional
+12436.0,0,At-Risk Customers
+12437.0,2,Loyal Regulars
+12438.0,0,At-Risk Customers
+12441.0,1,VIP Customers
+12442.0,0,At-Risk Customers
+12444.0,3,New/Occasional
+12445.0,0,At-Risk Customers
+12446.0,0,At-Risk Customers
+12447.0,1,VIP Customers
+12448.0,0,At-Risk Customers
+12449.0,3,New/Occasional
+12450.0,1,VIP Customers
+12451.0,3,New/Occasional
+12452.0,0,At-Risk Customers
+12453.0,0,At-Risk Customers
+12454.0,0,At-Risk Customers
+12455.0,3,New/Occasional
+12456.0,3,New/Occasional
+12457.0,3,New/Occasional
+12458.0,0,At-Risk Customers
+12461.0,0,At-Risk Customers
+12462.0,0,At-Risk Customers
+12463.0,0,At-Risk Customers
+12464.0,3,New/Occasional
+12465.0,0,At-Risk Customers
+12468.0,1,VIP Customers
+12472.0,3,New/Occasional
+12473.0,3,New/Occasional
+12474.0,2,Loyal Regulars
+12475.0,0,At-Risk Customers
+12476.0,3,New/Occasional
+12477.0,2,Loyal Regulars
+12478.0,0,At-Risk Customers
+12479.0,0,At-Risk Customers
+12480.0,3,New/Occasional
+12481.0,3,New/Occasional
+12483.0,3,New/Occasional
+12484.0,3,New/Occasional
+12488.0,0,At-Risk Customers
+12489.0,1,VIP Customers
+12490.0,3,New/Occasional
+12491.0,0,At-Risk Customers
+12492.0,0,At-Risk Customers
+12493.0,1,VIP Customers
+12494.0,0,At-Risk Customers
+12497.0,0,At-Risk Customers
+12498.0,0,At-Risk Customers
+12500.0,3,New/Occasional
+12501.0,1,VIP Customers
+12502.0,3,New/Occasional
+12504.0,0,At-Risk Customers
+12506.0,1,VIP Customers
+12507.0,0,At-Risk Customers
+12508.0,0,At-Risk Customers
+12509.0,1,VIP Customers
+12510.0,0,At-Risk Customers
+12512.0,0,At-Risk Customers
+12513.0,0,At-Risk Customers
+12514.0,1,VIP Customers
+12515.0,1,VIP Customers
+12516.0,0,At-Risk Customers
+12517.0,3,New/Occasional
+12518.0,3,New/Occasional
+12519.0,0,At-Risk Customers
+12520.0,3,New/Occasional
+12521.0,0,At-Risk Customers
+12522.0,0,At-Risk Customers
+12523.0,3,New/Occasional
+12524.0,3,New/Occasional
+12526.0,0,At-Risk Customers
+12527.0,0,At-Risk Customers
+12528.0,3,New/Occasional
+12530.0,0,At-Risk Customers
+12531.0,0,At-Risk Customers
+12532.0,0,At-Risk Customers
+12534.0,0,At-Risk Customers
+12535.0,0,At-Risk Customers
+12536.0,3,New/Occasional
+12538.0,0,At-Risk Customers
+12539.0,3,New/Occasional
+12540.0,2,Loyal Regulars
+12541.0,0,At-Risk Customers
+12544.0,0,At-Risk Customers
+12545.0,0,At-Risk Customers
+12546.0,0,At-Risk Customers
+12547.0,1,VIP Customers
+12548.0,1,VIP Customers
+12550.0,0,At-Risk Customers
+12551.0,1,VIP Customers
+12552.0,0,At-Risk Customers
+12553.0,3,New/Occasional
+12556.0,0,At-Risk Customers
+12557.0,3,New/Occasional
+12558.0,0,At-Risk Customers
+12559.0,1,VIP Customers
+12560.0,0,At-Risk Customers
+12561.0,1,VIP Customers
+12562.0,3,New/Occasional
+12564.0,1,VIP Customers
+12565.0,1,VIP Customers
+12566.0,0,At-Risk Customers
+12567.0,2,Loyal Regulars
+12569.0,2,Loyal Regulars
+12571.0,0,At-Risk Customers
+12572.0,0,At-Risk Customers
+12573.0,1,VIP Customers
+12574.0,1,VIP Customers
+12576.0,0,At-Risk Customers
+12577.0,0,At-Risk Customers
+12578.0,0,At-Risk Customers
+12579.0,0,At-Risk Customers
+12580.0,1,VIP Customers
+12581.0,0,At-Risk Customers
+12582.0,1,VIP Customers
+12583.0,2,Loyal Regulars
+12584.0,3,New/Occasional
+12585.0,1,VIP Customers
+12586.0,0,At-Risk Customers
+12587.0,0,At-Risk Customers
+12588.0,0,At-Risk Customers
+12589.0,0,At-Risk Customers
+12590.0,3,New/Occasional
+12591.0,1,VIP Customers
+12592.0,0,At-Risk Customers
+12593.0,0,At-Risk Customers
+12594.0,3,New/Occasional
+12596.0,0,At-Risk Customers
+12597.0,3,New/Occasional
+12598.0,3,New/Occasional
+12599.0,0,At-Risk Customers
+12600.0,3,New/Occasional
+12601.0,1,VIP Customers
+12602.0,0,At-Risk Customers
+12603.0,0,At-Risk Customers
+12604.0,0,At-Risk Customers
+12607.0,0,At-Risk Customers
+12609.0,0,At-Risk Customers
+12610.0,3,New/Occasional
+12611.0,0,At-Risk Customers
+12612.0,0,At-Risk Customers
+12613.0,3,New/Occasional
+12614.0,1,VIP Customers
+12615.0,0,At-Risk Customers
+12616.0,0,At-Risk Customers
+12617.0,0,At-Risk Customers
+12618.0,0,At-Risk Customers
+12619.0,3,New/Occasional
+12620.0,0,At-Risk Customers
+12621.0,2,Loyal Regulars
+12622.0,1,VIP Customers
+12623.0,1,VIP Customers
+12624.0,0,At-Risk Customers
+12625.0,1,VIP Customers
+12626.0,3,New/Occasional
+12627.0,3,New/Occasional
+12628.0,0,At-Risk Customers
+12630.0,0,At-Risk Customers
+12631.0,0,At-Risk Customers
+12633.0,0,At-Risk Customers
+12635.0,0,At-Risk Customers
+12637.0,3,New/Occasional
+12638.0,0,At-Risk Customers
+12639.0,1,VIP Customers
+12640.0,0,At-Risk Customers
+12641.0,0,At-Risk Customers
+12642.0,0,At-Risk Customers
+12643.0,3,New/Occasional
+12644.0,0,At-Risk Customers
+12645.0,0,At-Risk Customers
+12646.0,0,At-Risk Customers
+12647.0,3,New/Occasional
+12648.0,1,VIP Customers
+12649.0,0,At-Risk Customers
+12650.0,0,At-Risk Customers
+12651.0,1,VIP Customers
+12652.0,1,VIP Customers
+12653.0,0,At-Risk Customers
+12654.0,0,At-Risk Customers
+12656.0,3,New/Occasional
+12657.0,0,At-Risk Customers
+12658.0,0,At-Risk Customers
+12659.0,0,At-Risk Customers
+12660.0,0,At-Risk Customers
+12662.0,3,New/Occasional
+12664.0,3,New/Occasional
+12665.0,1,VIP Customers
+12667.0,0,At-Risk Customers
+12668.0,3,New/Occasional
+12669.0,0,At-Risk Customers
+12670.0,3,New/Occasional
+12672.0,1,VIP Customers
+12673.0,0,At-Risk Customers
+12674.0,0,At-Risk Customers
+12676.0,0,At-Risk Customers
+12678.0,2,Loyal Regulars
+12679.0,0,At-Risk Customers
+12680.0,0,At-Risk Customers
+12681.0,2,Loyal Regulars
+12682.0,2,Loyal Regulars
+12683.0,2,Loyal Regulars
+12684.0,3,New/Occasional
+12685.0,3,New/Occasional
+12686.0,1,VIP Customers
+12688.0,3,New/Occasional
+12689.0,0,At-Risk Customers
+12690.0,1,VIP Customers
+12691.0,0,At-Risk Customers
+12693.0,0,At-Risk Customers
+12694.0,0,At-Risk Customers
+12695.0,0,At-Risk Customers
+12697.0,0,At-Risk Customers
+12700.0,3,New/Occasional
+12701.0,0,At-Risk Customers
+12702.0,0,At-Risk Customers
+12703.0,0,At-Risk Customers
+12704.0,3,New/Occasional
+12705.0,3,New/Occasional
+12707.0,1,VIP Customers
+12708.0,3,New/Occasional
+12709.0,2,Loyal Regulars
+12710.0,0,At-Risk Customers
+12712.0,3,New/Occasional
+12713.0,0,At-Risk Customers
+12714.0,3,New/Occasional
+12715.0,0,At-Risk Customers
+12716.0,0,At-Risk Customers
+12717.0,0,At-Risk Customers
+12718.0,0,At-Risk Customers
+12719.0,0,At-Risk Customers
+12720.0,2,Loyal Regulars
+12721.0,3,New/Occasional
+12722.0,0,At-Risk Customers
+12723.0,0,At-Risk Customers
+12724.0,0,At-Risk Customers
+12725.0,1,VIP Customers
+12726.0,3,New/Occasional
+12727.0,3,New/Occasional
+12728.0,0,At-Risk Customers
+12729.0,0,At-Risk Customers
+12732.0,1,VIP Customers
+12733.0,1,VIP Customers
+12734.0,1,VIP Customers
+12735.0,1,VIP Customers
+12736.0,1,VIP Customers
+12738.0,1,VIP Customers
+12739.0,0,At-Risk Customers
+12740.0,0,At-Risk Customers
+12743.0,0,At-Risk Customers
+12744.0,3,New/Occasional
+12747.0,3,New/Occasional
+12749.0,3,New/Occasional
+12750.0,0,At-Risk Customers
+12752.0,3,New/Occasional
+12754.0,1,VIP Customers
+12755.0,1,VIP Customers
+12756.0,0,At-Risk Customers
+12757.0,3,New/Occasional
+12758.0,0,At-Risk Customers
+12759.0,0,At-Risk Customers
+12762.0,0,At-Risk Customers
+12763.0,0,At-Risk Customers
+12764.0,1,VIP Customers
+12766.0,3,New/Occasional
+12769.0,1,VIP Customers
+12770.0,1,VIP Customers
+12772.0,0,At-Risk Customers
+12775.0,0,At-Risk Customers
+12778.0,0,At-Risk Customers
+12779.0,3,New/Occasional
+12781.0,0,At-Risk Customers
+12782.0,3,New/Occasional
+12783.0,3,New/Occasional
+12784.0,0,At-Risk Customers
+12785.0,1,VIP Customers
+12787.0,0,At-Risk Customers
+12789.0,0,At-Risk Customers
+12790.0,1,VIP Customers
+12791.0,1,VIP Customers
+12792.0,1,VIP Customers
+12793.0,1,VIP Customers
+12794.0,0,At-Risk Customers
+12795.0,0,At-Risk Customers
+12797.0,1,VIP Customers
+12798.0,1,VIP Customers
+12802.0,1,VIP Customers
+12808.0,0,At-Risk Customers
+12809.0,1,VIP Customers
+12811.0,1,VIP Customers
+12812.0,0,At-Risk Customers
+12814.0,0,At-Risk Customers
+12815.0,0,At-Risk Customers
+12816.0,0,At-Risk Customers
+12817.0,1,VIP Customers
+12818.0,1,VIP Customers
+12820.0,0,At-Risk Customers
+12821.0,1,VIP Customers
+12822.0,0,At-Risk Customers
+12823.0,0,At-Risk Customers
+12824.0,0,At-Risk Customers
+12826.0,3,New/Occasional
+12827.0,0,At-Risk Customers
+12828.0,0,At-Risk Customers
+12829.0,1,VIP Customers
+12830.0,3,New/Occasional
+12831.0,1,VIP Customers
+12832.0,0,At-Risk Customers
+12833.0,0,At-Risk Customers
+12834.0,1,VIP Customers
+12836.0,3,New/Occasional
+12837.0,1,VIP Customers
+12838.0,0,At-Risk Customers
+12839.0,3,New/Occasional
+12840.0,0,At-Risk Customers
+12841.0,2,Loyal Regulars
+12842.0,0,At-Risk Customers
+12843.0,3,New/Occasional
+12844.0,0,At-Risk Customers
+12845.0,1,VIP Customers
+12847.0,0,At-Risk Customers
+12849.0,0,At-Risk Customers
+12851.0,0,At-Risk Customers
+12852.0,1,VIP Customers
+12853.0,0,At-Risk Customers
+12854.0,0,At-Risk Customers
+12855.0,1,VIP Customers
+12856.0,3,New/Occasional
+12857.0,1,VIP Customers
+12863.0,0,At-Risk Customers
+12864.0,0,At-Risk Customers
+12865.0,0,At-Risk Customers
+12866.0,1,VIP Customers
+12867.0,3,New/Occasional
+12868.0,1,VIP Customers
+12871.0,0,At-Risk Customers
+12872.0,1,VIP Customers
+12873.0,1,VIP Customers
+12875.0,0,At-Risk Customers
+12876.0,0,At-Risk Customers
+12877.0,3,New/Occasional
+12878.0,1,VIP Customers
+12879.0,0,At-Risk Customers
+12881.0,1,VIP Customers
+12882.0,0,At-Risk Customers
+12883.0,0,At-Risk Customers
+12884.0,0,At-Risk Customers
+12885.0,0,At-Risk Customers
+12886.0,0,At-Risk Customers
+12888.0,1,VIP Customers
+12890.0,0,At-Risk Customers
+12891.0,1,VIP Customers
+12893.0,0,At-Risk Customers
+12895.0,0,At-Risk Customers
+12897.0,1,VIP Customers
+12901.0,2,Loyal Regulars
+12902.0,1,VIP Customers
+12904.0,0,At-Risk Customers
+12906.0,3,New/Occasional
+12908.0,1,VIP Customers
+12909.0,3,New/Occasional
+12910.0,3,New/Occasional
+12912.0,0,At-Risk Customers
+12913.0,3,New/Occasional
+12915.0,0,At-Risk Customers
+12916.0,3,New/Occasional
+12917.0,0,At-Risk Customers
+12919.0,0,At-Risk Customers
+12920.0,0,At-Risk Customers
+12922.0,1,VIP Customers
+12923.0,0,At-Risk Customers
+12924.0,0,At-Risk Customers
+12925.0,0,At-Risk Customers
+12928.0,0,At-Risk Customers
+12929.0,1,VIP Customers
+12930.0,0,At-Risk Customers
+12933.0,0,At-Risk Customers
+12935.0,3,New/Occasional
+12936.0,0,At-Risk Customers
+12937.0,0,At-Risk Customers
+12938.0,0,At-Risk Customers
+12939.0,2,Loyal Regulars
+12940.0,0,At-Risk Customers
+12942.0,0,At-Risk Customers
+12944.0,0,At-Risk Customers
+12945.0,1,VIP Customers
+12947.0,0,At-Risk Customers
+12948.0,3,New/Occasional
+12949.0,3,New/Occasional
+12950.0,0,At-Risk Customers
+12951.0,0,At-Risk Customers
+12952.0,0,At-Risk Customers
+12953.0,0,At-Risk Customers
+12955.0,3,New/Occasional
+12956.0,1,VIP Customers
+12957.0,3,New/Occasional
+12962.0,0,At-Risk Customers
+12963.0,3,New/Occasional
+12965.0,0,At-Risk Customers
+12966.0,0,At-Risk Customers
+12967.0,1,VIP Customers
+12968.0,0,At-Risk Customers
+12970.0,0,At-Risk Customers
+12971.0,2,Loyal Regulars
+12974.0,1,VIP Customers
+12976.0,1,VIP Customers
+12977.0,1,VIP Customers
+12980.0,3,New/Occasional
+12981.0,0,At-Risk Customers
+12982.0,1,VIP Customers
+12984.0,0,At-Risk Customers
+12985.0,0,At-Risk Customers
+12987.0,0,At-Risk Customers
+12988.0,1,VIP Customers
+12989.0,2,Loyal Regulars
+12990.0,0,At-Risk Customers
+12991.0,0,At-Risk Customers
+12993.0,0,At-Risk Customers
+12994.0,0,At-Risk Customers
+12995.0,0,At-Risk Customers
+12997.0,0,At-Risk Customers
+12999.0,1,VIP Customers
+13000.0,0,At-Risk Customers
+13001.0,2,Loyal Regulars
+13002.0,1,VIP Customers
+13003.0,0,At-Risk Customers
+13004.0,2,Loyal Regulars
+13005.0,1,VIP Customers
+13006.0,0,At-Risk Customers
+13008.0,1,VIP Customers
+13011.0,1,VIP Customers
+13012.0,3,New/Occasional
+13013.0,3,New/Occasional
+13014.0,3,New/Occasional
+13015.0,3,New/Occasional
+13016.0,0,At-Risk Customers
+13017.0,0,At-Risk Customers
+13018.0,2,Loyal Regulars
+13021.0,3,New/Occasional
+13023.0,0,At-Risk Customers
+13026.0,0,At-Risk Customers
+13027.0,3,New/Occasional
+13028.0,0,At-Risk Customers
+13029.0,0,At-Risk Customers
+13030.0,0,At-Risk Customers
+13032.0,0,At-Risk Customers
+13033.0,1,VIP Customers
+13034.0,0,At-Risk Customers
+13035.0,0,At-Risk Customers
+13037.0,0,At-Risk Customers
+13038.0,0,At-Risk Customers
+13040.0,0,At-Risk Customers
+13043.0,1,VIP Customers
+13044.0,1,VIP Customers
+13045.0,0,At-Risk Customers
+13046.0,0,At-Risk Customers
+13047.0,3,New/Occasional
+13048.0,0,At-Risk Customers
+13049.0,0,At-Risk Customers
+13050.0,2,Loyal Regulars
+13052.0,1,VIP Customers
+13055.0,0,At-Risk Customers
+13058.0,0,At-Risk Customers
+13059.0,1,VIP Customers
+13060.0,1,VIP Customers
+13061.0,0,At-Risk Customers
+13062.0,1,VIP Customers
+13064.0,0,At-Risk Customers
+13065.0,1,VIP Customers
+13066.0,0,At-Risk Customers
+13067.0,0,At-Risk Customers
+13068.0,0,At-Risk Customers
+13069.0,2,Loyal Regulars
+13070.0,1,VIP Customers
+13072.0,1,VIP Customers
+13075.0,0,At-Risk Customers
+13077.0,0,At-Risk Customers
+13078.0,2,Loyal Regulars
+13079.0,0,At-Risk Customers
+13080.0,1,VIP Customers
+13082.0,3,New/Occasional
+13083.0,0,At-Risk Customers
+13085.0,1,VIP Customers
+13090.0,2,Loyal Regulars
+13091.0,0,At-Risk Customers
+13092.0,0,At-Risk Customers
+13093.0,3,New/Occasional
+13094.0,3,New/Occasional
+13095.0,0,At-Risk Customers
+13097.0,3,New/Occasional
+13099.0,0,At-Risk Customers
+13101.0,1,VIP Customers
+13102.0,2,Loyal Regulars
+13103.0,0,At-Risk Customers
+13104.0,0,At-Risk Customers
+13106.0,0,At-Risk Customers
+13107.0,0,At-Risk Customers
+13108.0,1,VIP Customers
+13109.0,0,At-Risk Customers
+13110.0,3,New/Occasional
+13113.0,2,Loyal Regulars
+13115.0,0,At-Risk Customers
+13116.0,0,At-Risk Customers
+13117.0,3,New/Occasional
+13118.0,0,At-Risk Customers
+13120.0,1,VIP Customers
+13121.0,1,VIP Customers
+13122.0,0,At-Risk Customers
+13124.0,3,New/Occasional
+13126.0,3,New/Occasional
+13127.0,0,At-Risk Customers
+13130.0,0,At-Risk Customers
+13131.0,0,At-Risk Customers
+13132.0,1,VIP Customers
+13133.0,1,VIP Customers
+13134.0,0,At-Risk Customers
+13136.0,3,New/Occasional
+13137.0,3,New/Occasional
+13138.0,0,At-Risk Customers
+13139.0,3,New/Occasional
+13140.0,0,At-Risk Customers
+13141.0,3,New/Occasional
+13142.0,0,At-Risk Customers
+13144.0,1,VIP Customers
+13145.0,0,At-Risk Customers
+13146.0,0,At-Risk Customers
+13147.0,0,At-Risk Customers
+13148.0,3,New/Occasional
+13149.0,0,At-Risk Customers
+13151.0,1,VIP Customers
+13153.0,0,At-Risk Customers
+13155.0,0,At-Risk Customers
+13157.0,0,At-Risk Customers
+13158.0,0,At-Risk Customers
+13159.0,0,At-Risk Customers
+13160.0,0,At-Risk Customers
+13161.0,1,VIP Customers
+13162.0,0,At-Risk Customers
+13165.0,0,At-Risk Customers
+13166.0,1,VIP Customers
+13167.0,0,At-Risk Customers
+13168.0,0,At-Risk Customers
+13169.0,0,At-Risk Customers
+13170.0,0,At-Risk Customers
+13171.0,0,At-Risk Customers
+13173.0,0,At-Risk Customers
+13174.0,3,New/Occasional
+13176.0,0,At-Risk Customers
+13177.0,0,At-Risk Customers
+13178.0,3,New/Occasional
+13182.0,0,At-Risk Customers
+13183.0,3,New/Occasional
+13184.0,3,New/Occasional
+13185.0,1,VIP Customers
+13186.0,0,At-Risk Customers
+13187.0,1,VIP Customers
+13188.0,0,At-Risk Customers
+13189.0,0,At-Risk Customers
+13192.0,0,At-Risk Customers
+13193.0,0,At-Risk Customers
+13194.0,0,At-Risk Customers
+13196.0,0,At-Risk Customers
+13198.0,3,New/Occasional
+13199.0,2,Loyal Regulars
+13200.0,0,At-Risk Customers
+13203.0,0,At-Risk Customers
+13207.0,0,At-Risk Customers
+13208.0,0,At-Risk Customers
+13209.0,3,New/Occasional
+13210.0,0,At-Risk Customers
+13211.0,0,At-Risk Customers
+13212.0,0,At-Risk Customers
+13213.0,0,At-Risk Customers
+13216.0,1,VIP Customers
+13217.0,0,At-Risk Customers
+13218.0,0,At-Risk Customers
+13220.0,0,At-Risk Customers
+13221.0,1,VIP Customers
+13223.0,1,VIP Customers
+13224.0,0,At-Risk Customers
+13225.0,3,New/Occasional
+13226.0,1,VIP Customers
+13227.0,1,VIP Customers
+13228.0,0,At-Risk Customers
+13229.0,1,VIP Customers
+13230.0,3,New/Occasional
+13232.0,3,New/Occasional
+13233.0,0,At-Risk Customers
+13235.0,1,VIP Customers
+13236.0,0,At-Risk Customers
+13238.0,0,At-Risk Customers
+13239.0,1,VIP Customers
+13240.0,0,At-Risk Customers
+13242.0,0,At-Risk Customers
+13243.0,1,VIP Customers
+13244.0,0,At-Risk Customers
+13245.0,0,At-Risk Customers
+13246.0,3,New/Occasional
+13247.0,0,At-Risk Customers
+13248.0,0,At-Risk Customers
+13249.0,0,At-Risk Customers
+13253.0,1,VIP Customers
+13255.0,0,At-Risk Customers
+13258.0,0,At-Risk Customers
+13259.0,0,At-Risk Customers
+13260.0,0,At-Risk Customers
+13261.0,1,VIP Customers
+13262.0,1,VIP Customers
+13263.0,2,Loyal Regulars
+13265.0,0,At-Risk Customers
+13266.0,3,New/Occasional
+13267.0,2,Loyal Regulars
+13268.0,3,New/Occasional
+13269.0,3,New/Occasional
+13270.0,1,VIP Customers
+13271.0,0,At-Risk Customers
+13272.0,0,At-Risk Customers
+13273.0,0,At-Risk Customers
+13276.0,0,At-Risk Customers
+13277.0,0,At-Risk Customers
+13278.0,0,At-Risk Customers
+13279.0,0,At-Risk Customers
+13280.0,0,At-Risk Customers
+13282.0,0,At-Risk Customers
+13283.0,0,At-Risk Customers
+13284.0,1,VIP Customers
+13285.0,3,New/Occasional
+13291.0,1,VIP Customers
+13292.0,0,At-Risk Customers
+13294.0,1,VIP Customers
+13295.0,1,VIP Customers
+13296.0,0,At-Risk Customers
+13297.0,0,At-Risk Customers
+13298.0,0,At-Risk Customers
+13299.0,1,VIP Customers
+13300.0,1,VIP Customers
+13301.0,0,At-Risk Customers
+13302.0,1,VIP Customers
+13304.0,1,VIP Customers
+13305.0,3,New/Occasional
+13307.0,0,At-Risk Customers
+13308.0,0,At-Risk Customers
+13309.0,0,At-Risk Customers
+13310.0,0,At-Risk Customers
+13311.0,0,At-Risk Customers
+13313.0,0,At-Risk Customers
+13314.0,0,At-Risk Customers
+13316.0,3,New/Occasional
+13317.0,3,New/Occasional
+13318.0,0,At-Risk Customers
+13319.0,2,Loyal Regulars
+13320.0,0,At-Risk Customers
+13321.0,0,At-Risk Customers
+13322.0,0,At-Risk Customers
+13323.0,0,At-Risk Customers
+13324.0,3,New/Occasional
+13325.0,0,At-Risk Customers
+13327.0,3,New/Occasional
+13328.0,1,VIP Customers
+13329.0,0,At-Risk Customers
+13330.0,0,At-Risk Customers
+13332.0,0,At-Risk Customers
+13334.0,3,New/Occasional
+13336.0,0,At-Risk Customers
+13338.0,1,VIP Customers
+13339.0,1,VIP Customers
+13340.0,2,Loyal Regulars
+13341.0,1,VIP Customers
+13343.0,1,VIP Customers
+13344.0,0,At-Risk Customers
+13345.0,1,VIP Customers
+13347.0,0,At-Risk Customers
+13348.0,0,At-Risk Customers
+13349.0,0,At-Risk Customers
+13350.0,0,At-Risk Customers
+13351.0,0,At-Risk Customers
+13352.0,0,At-Risk Customers
+13354.0,0,At-Risk Customers
+13355.0,0,At-Risk Customers
+13356.0,0,At-Risk Customers
+13357.0,1,VIP Customers
+13358.0,1,VIP Customers
+13359.0,0,At-Risk Customers
+13362.0,3,New/Occasional
+13363.0,0,At-Risk Customers
+13364.0,0,At-Risk Customers
+13365.0,0,At-Risk Customers
+13366.0,0,At-Risk Customers
+13368.0,1,VIP Customers
+13369.0,1,VIP Customers
+13370.0,1,VIP Customers
+13372.0,0,At-Risk Customers
+13373.0,3,New/Occasional
+13375.0,0,At-Risk Customers
+13376.0,0,At-Risk Customers
+13379.0,0,At-Risk Customers
+13381.0,3,New/Occasional
+13382.0,1,VIP Customers
+13384.0,3,New/Occasional
+13385.0,1,VIP Customers
+13388.0,0,At-Risk Customers
+13389.0,0,At-Risk Customers
+13390.0,0,At-Risk Customers
+13391.0,1,VIP Customers
+13394.0,3,New/Occasional
+13395.0,1,VIP Customers
+13396.0,0,At-Risk Customers
+13397.0,0,At-Risk Customers
+13398.0,1,VIP Customers
+13402.0,0,At-Risk Customers
+13403.0,0,At-Risk Customers
+13404.0,0,At-Risk Customers
+13405.0,0,At-Risk Customers
+13410.0,0,At-Risk Customers
+13411.0,0,At-Risk Customers
+13414.0,0,At-Risk Customers
+13416.0,0,At-Risk Customers
+13417.0,0,At-Risk Customers
+13418.0,2,Loyal Regulars
+13419.0,0,At-Risk Customers
+13420.0,1,VIP Customers
+13421.0,0,At-Risk Customers
+13422.0,0,At-Risk Customers
+13425.0,0,At-Risk Customers
+13426.0,3,New/Occasional
+13427.0,0,At-Risk Customers
+13428.0,0,At-Risk Customers
+13429.0,0,At-Risk Customers
+13430.0,0,At-Risk Customers
+13431.0,0,At-Risk Customers
+13434.0,0,At-Risk Customers
+13435.0,3,New/Occasional
+13436.0,0,At-Risk Customers
+13437.0,3,New/Occasional
+13439.0,1,VIP Customers
+13441.0,0,At-Risk Customers
+13447.0,0,At-Risk Customers
+13448.0,3,New/Occasional
+13449.0,0,At-Risk Customers
+13450.0,3,New/Occasional
+13451.0,3,New/Occasional
+13452.0,1,VIP Customers
+13453.0,1,VIP Customers
+13455.0,0,At-Risk Customers
+13456.0,3,New/Occasional
+13458.0,2,Loyal Regulars
+13460.0,0,At-Risk Customers
+13461.0,0,At-Risk Customers
+13462.0,1,VIP Customers
+13464.0,0,At-Risk Customers
+13466.0,1,VIP Customers
+13467.0,0,At-Risk Customers
+13468.0,2,Loyal Regulars
+13470.0,0,At-Risk Customers
+13471.0,3,New/Occasional
+13473.0,0,At-Risk Customers
+13474.0,1,VIP Customers
+13475.0,1,VIP Customers
+13476.0,1,VIP Customers
+13477.0,0,At-Risk Customers
+13479.0,1,VIP Customers
+13481.0,0,At-Risk Customers
+13482.0,1,VIP Customers
+13483.0,0,At-Risk Customers
+13484.0,1,VIP Customers
+13485.0,1,VIP Customers
+13486.0,0,At-Risk Customers
+13487.0,0,At-Risk Customers
+13488.0,2,Loyal Regulars
+13489.0,0,At-Risk Customers
+13491.0,3,New/Occasional
+13492.0,0,At-Risk Customers
+13493.0,1,VIP Customers
+13494.0,1,VIP Customers
+13495.0,3,New/Occasional
+13496.0,0,At-Risk Customers
+13497.0,1,VIP Customers
+13499.0,0,At-Risk Customers
+13500.0,0,At-Risk Customers
+13501.0,1,VIP Customers
+13502.0,0,At-Risk Customers
+13503.0,0,At-Risk Customers
+13504.0,0,At-Risk Customers
+13505.0,3,New/Occasional
+13506.0,1,VIP Customers
+13507.0,3,New/Occasional
+13508.0,1,VIP Customers
+13509.0,0,At-Risk Customers
+13510.0,0,At-Risk Customers
+13512.0,1,VIP Customers
+13513.0,0,At-Risk Customers
+13514.0,0,At-Risk Customers
+13515.0,0,At-Risk Customers
+13516.0,0,At-Risk Customers
+13517.0,0,At-Risk Customers
+13518.0,0,At-Risk Customers
+13519.0,0,At-Risk Customers
+13520.0,3,New/Occasional
+13521.0,0,At-Risk Customers
+13522.0,0,At-Risk Customers
+13523.0,3,New/Occasional
+13524.0,0,At-Risk Customers
+13525.0,0,At-Risk Customers
+13527.0,3,New/Occasional
+13529.0,0,At-Risk Customers
+13531.0,1,VIP Customers
+13532.0,0,At-Risk Customers
+13533.0,1,VIP Customers
+13534.0,2,Loyal Regulars
+13536.0,3,New/Occasional
+13538.0,0,At-Risk Customers
+13539.0,0,At-Risk Customers
+13544.0,0,At-Risk Customers
+13546.0,0,At-Risk Customers
+13548.0,0,At-Risk Customers
+13549.0,0,At-Risk Customers
+13551.0,1,VIP Customers
+13552.0,3,New/Occasional
+13555.0,3,New/Occasional
+13557.0,0,At-Risk Customers
+13558.0,0,At-Risk Customers
+13560.0,0,At-Risk Customers
+13561.0,1,VIP Customers
+13562.0,0,At-Risk Customers
+13563.0,0,At-Risk Customers
+13564.0,0,At-Risk Customers
+13565.0,0,At-Risk Customers
+13566.0,0,At-Risk Customers
+13568.0,1,VIP Customers
+13569.0,0,At-Risk Customers
+13570.0,1,VIP Customers
+13571.0,3,New/Occasional
+13572.0,1,VIP Customers
+13573.0,0,At-Risk Customers
+13575.0,0,At-Risk Customers
+13576.0,2,Loyal Regulars
+13577.0,0,At-Risk Customers
+13579.0,0,At-Risk Customers
+13581.0,1,VIP Customers
+13583.0,1,VIP Customers
+13584.0,1,VIP Customers
+13587.0,0,At-Risk Customers
+13588.0,3,New/Occasional
+13589.0,0,At-Risk Customers
+13590.0,3,New/Occasional
+13591.0,0,At-Risk Customers
+13592.0,0,At-Risk Customers
+13593.0,0,At-Risk Customers
+13594.0,0,At-Risk Customers
+13596.0,0,At-Risk Customers
+13598.0,0,At-Risk Customers
+13599.0,2,Loyal Regulars
+13600.0,1,VIP Customers
+13601.0,0,At-Risk Customers
+13602.0,0,At-Risk Customers
+13603.0,0,At-Risk Customers
+13606.0,0,At-Risk Customers
+13607.0,0,At-Risk Customers
+13610.0,0,At-Risk Customers
+13611.0,0,At-Risk Customers
+13614.0,0,At-Risk Customers
+13615.0,1,VIP Customers
+13617.0,0,At-Risk Customers
+13618.0,1,VIP Customers
+13621.0,0,At-Risk Customers
+13623.0,0,At-Risk Customers
+13626.0,1,VIP Customers
+13627.0,0,At-Risk Customers
+13629.0,2,Loyal Regulars
+13630.0,3,New/Occasional
+13631.0,3,New/Occasional
+13632.0,3,New/Occasional
+13634.0,0,At-Risk Customers
+13635.0,0,At-Risk Customers
+13636.0,0,At-Risk Customers
+13637.0,0,At-Risk Customers
+13638.0,0,At-Risk Customers
+13639.0,0,At-Risk Customers
+13642.0,1,VIP Customers
+13643.0,0,At-Risk Customers
+13644.0,3,New/Occasional
+13645.0,0,At-Risk Customers
+13647.0,0,At-Risk Customers
+13649.0,1,VIP Customers
+13650.0,3,New/Occasional
+13651.0,0,At-Risk Customers
+13652.0,0,At-Risk Customers
+13654.0,3,New/Occasional
+13655.0,0,At-Risk Customers
+13656.0,1,VIP Customers
+13657.0,0,At-Risk Customers
+13658.0,3,New/Occasional
+13659.0,1,VIP Customers
+13662.0,0,At-Risk Customers
+13663.0,1,VIP Customers
+13666.0,0,At-Risk Customers
+13667.0,1,VIP Customers
+13668.0,2,Loyal Regulars
+13669.0,0,At-Risk Customers
+13670.0,0,At-Risk Customers
+13672.0,1,VIP Customers
+13673.0,0,At-Risk Customers
+13675.0,1,VIP Customers
+13678.0,1,VIP Customers
+13680.0,3,New/Occasional
+13681.0,0,At-Risk Customers
+13682.0,1,VIP Customers
+13684.0,1,VIP Customers
+13685.0,3,New/Occasional
+13686.0,1,VIP Customers
+13689.0,0,At-Risk Customers
+13690.0,0,At-Risk Customers
+13692.0,0,At-Risk Customers
+13695.0,3,New/Occasional
+13697.0,0,At-Risk Customers
+13699.0,1,VIP Customers
+13700.0,3,New/Occasional
+13703.0,1,VIP Customers
+13704.0,3,New/Occasional
+13705.0,0,At-Risk Customers
+13706.0,1,VIP Customers
+13707.0,1,VIP Customers
+13708.0,1,VIP Customers
+13709.0,3,New/Occasional
+13710.0,0,At-Risk Customers
+13711.0,1,VIP Customers
+13712.0,1,VIP Customers
+13715.0,1,VIP Customers
+13716.0,1,VIP Customers
+13717.0,0,At-Risk Customers
+13718.0,1,VIP Customers
+13719.0,0,At-Risk Customers
+13720.0,0,At-Risk Customers
+13721.0,0,At-Risk Customers
+13722.0,0,At-Risk Customers
+13723.0,1,VIP Customers
+13725.0,3,New/Occasional
+13726.0,0,At-Risk Customers
+13727.0,0,At-Risk Customers
+13728.0,0,At-Risk Customers
+13730.0,0,At-Risk Customers
+13731.0,1,VIP Customers
+13732.0,0,At-Risk Customers
+13735.0,3,New/Occasional
+13736.0,0,At-Risk Customers
+13737.0,1,VIP Customers
+13739.0,0,At-Risk Customers
+13740.0,1,VIP Customers
+13741.0,0,At-Risk Customers
+13742.0,3,New/Occasional
+13743.0,3,New/Occasional
+13744.0,0,At-Risk Customers
+13745.0,1,VIP Customers
+13747.0,1,VIP Customers
+13748.0,0,At-Risk Customers
+13750.0,0,At-Risk Customers
+13751.0,1,VIP Customers
+13752.0,0,At-Risk Customers
+13753.0,1,VIP Customers
+13754.0,1,VIP Customers
+13755.0,3,New/Occasional
+13756.0,3,New/Occasional
+13758.0,3,New/Occasional
+13759.0,0,At-Risk Customers
+13760.0,0,At-Risk Customers
+13761.0,0,At-Risk Customers
+13762.0,1,VIP Customers
+13763.0,0,At-Risk Customers
+13764.0,0,At-Risk Customers
+13769.0,3,New/Occasional
+13771.0,3,New/Occasional
+13772.0,0,At-Risk Customers
+13774.0,0,At-Risk Customers
+13778.0,0,At-Risk Customers
+13780.0,0,At-Risk Customers
+13781.0,1,VIP Customers
+13782.0,0,At-Risk Customers
+13784.0,3,New/Occasional
+13786.0,1,VIP Customers
+13787.0,0,At-Risk Customers
+13790.0,0,At-Risk Customers
+13791.0,0,At-Risk Customers
+13792.0,0,At-Risk Customers
+13799.0,0,At-Risk Customers
+13800.0,1,VIP Customers
+13801.0,0,At-Risk Customers
+13802.0,3,New/Occasional
+13803.0,1,VIP Customers
+13804.0,3,New/Occasional
+13805.0,0,At-Risk Customers
+13806.0,0,At-Risk Customers
+13807.0,1,VIP Customers
+13808.0,0,At-Risk Customers
+13809.0,1,VIP Customers
+13810.0,0,At-Risk Customers
+13811.0,1,VIP Customers
+13812.0,0,At-Risk Customers
+13813.0,0,At-Risk Customers
+13814.0,0,At-Risk Customers
+13815.0,3,New/Occasional
+13816.0,0,At-Risk Customers
+13817.0,0,At-Risk Customers
+13819.0,1,VIP Customers
+13821.0,0,At-Risk Customers
+13822.0,0,At-Risk Customers
+13823.0,0,At-Risk Customers
+13824.0,0,At-Risk Customers
+13826.0,1,VIP Customers
+13827.0,0,At-Risk Customers
+13828.0,0,At-Risk Customers
+13831.0,3,New/Occasional
+13832.0,0,At-Risk Customers
+13833.0,1,VIP Customers
+13835.0,0,At-Risk Customers
+13837.0,1,VIP Customers
+13838.0,0,At-Risk Customers
+13841.0,1,VIP Customers
+13842.0,3,New/Occasional
+13844.0,0,At-Risk Customers
+13845.0,0,At-Risk Customers
+13846.0,0,At-Risk Customers
+13848.0,0,At-Risk Customers
+13849.0,0,At-Risk Customers
+13850.0,0,At-Risk Customers
+13851.0,0,At-Risk Customers
+13853.0,0,At-Risk Customers
+13854.0,2,Loyal Regulars
+13856.0,1,VIP Customers
+13858.0,0,At-Risk Customers
+13859.0,1,VIP Customers
+13860.0,0,At-Risk Customers
+13862.0,3,New/Occasional
+13863.0,1,VIP Customers
+13865.0,0,At-Risk Customers
+13866.0,0,At-Risk Customers
+13867.0,0,At-Risk Customers
+13868.0,0,At-Risk Customers
+13869.0,3,New/Occasional
+13870.0,3,New/Occasional
+13871.0,3,New/Occasional
+13873.0,0,At-Risk Customers
+13874.0,1,VIP Customers
+13875.0,0,At-Risk Customers
+13876.0,0,At-Risk Customers
+13877.0,0,At-Risk Customers
+13878.0,0,At-Risk Customers
+13880.0,3,New/Occasional
+13882.0,0,At-Risk Customers
+13883.0,3,New/Occasional
+13884.0,0,At-Risk Customers
+13885.0,1,VIP Customers
+13886.0,0,At-Risk Customers
+13887.0,1,VIP Customers
+13888.0,0,At-Risk Customers
+13889.0,0,At-Risk Customers
+13890.0,3,New/Occasional
+13892.0,0,At-Risk Customers
+13893.0,1,VIP Customers
+13894.0,0,At-Risk Customers
+13895.0,3,New/Occasional
+13897.0,0,At-Risk Customers
+13898.0,1,VIP Customers
+13899.0,0,At-Risk Customers
+13900.0,1,VIP Customers
+13901.0,3,New/Occasional
+13904.0,0,At-Risk Customers
+13908.0,0,At-Risk Customers
+13911.0,3,New/Occasional
+13914.0,0,At-Risk Customers
+13917.0,0,At-Risk Customers
+13918.0,0,At-Risk Customers
+13919.0,0,At-Risk Customers
+13922.0,1,VIP Customers
+13923.0,0,At-Risk Customers
+13924.0,3,New/Occasional
+13925.0,0,At-Risk Customers
+13926.0,0,At-Risk Customers
+13927.0,0,At-Risk Customers
+13928.0,0,At-Risk Customers
+13929.0,1,VIP Customers
+13930.0,0,At-Risk Customers
+13931.0,0,At-Risk Customers
+13932.0,1,VIP Customers
+13933.0,0,At-Risk Customers
+13934.0,1,VIP Customers
+13936.0,1,VIP Customers
+13937.0,1,VIP Customers
+13938.0,0,At-Risk Customers
+13939.0,0,At-Risk Customers
+13940.0,0,At-Risk Customers
+13941.0,3,New/Occasional
+13946.0,0,At-Risk Customers
+13947.0,0,At-Risk Customers
+13948.0,1,VIP Customers
+13949.0,3,New/Occasional
+13950.0,0,At-Risk Customers
+13951.0,1,VIP Customers
+13952.0,1,VIP Customers
+13953.0,3,New/Occasional
+13954.0,0,At-Risk Customers
+13955.0,1,VIP Customers
+13956.0,0,At-Risk Customers
+13959.0,0,At-Risk Customers
+13960.0,0,At-Risk Customers
+13962.0,0,At-Risk Customers
+13963.0,1,VIP Customers
+13967.0,0,At-Risk Customers
+13969.0,2,Loyal Regulars
+13971.0,3,New/Occasional
+13972.0,0,At-Risk Customers
+13973.0,1,VIP Customers
+13974.0,0,At-Risk Customers
+13975.0,3,New/Occasional
+13976.0,1,VIP Customers
+13978.0,0,At-Risk Customers
+13979.0,0,At-Risk Customers
+13980.0,0,At-Risk Customers
+13982.0,0,At-Risk Customers
+13983.0,3,New/Occasional
+13984.0,0,At-Risk Customers
+13985.0,2,Loyal Regulars
+13986.0,0,At-Risk Customers
+13988.0,3,New/Occasional
+13989.0,0,At-Risk Customers
+13990.0,1,VIP Customers
+13991.0,0,At-Risk Customers
+13992.0,0,At-Risk Customers
+13993.0,3,New/Occasional
+13994.0,3,New/Occasional
+13995.0,0,At-Risk Customers
+13999.0,3,New/Occasional
+14000.0,1,VIP Customers
+14001.0,0,At-Risk Customers
+14002.0,0,At-Risk Customers
+14004.0,3,New/Occasional
+14005.0,3,New/Occasional
+14006.0,0,At-Risk Customers
+14009.0,1,VIP Customers
+14012.0,1,VIP Customers
+14013.0,0,At-Risk Customers
+14014.0,0,At-Risk Customers
+14015.0,0,At-Risk Customers
+14016.0,3,New/Occasional
+14019.0,0,At-Risk Customers
+14020.0,0,At-Risk Customers
+14021.0,1,VIP Customers
+14022.0,1,VIP Customers
+14023.0,0,At-Risk Customers
+14024.0,0,At-Risk Customers
+14027.0,0,At-Risk Customers
+14029.0,0,At-Risk Customers
+14030.0,3,New/Occasional
+14031.0,2,Loyal Regulars
+14032.0,3,New/Occasional
+14034.0,0,At-Risk Customers
+14035.0,0,At-Risk Customers
+14036.0,1,VIP Customers
+14037.0,1,VIP Customers
+14038.0,0,At-Risk Customers
+14039.0,0,At-Risk Customers
+14040.0,3,New/Occasional
+14041.0,1,VIP Customers
+14044.0,0,At-Risk Customers
+14045.0,0,At-Risk Customers
+14046.0,1,VIP Customers
+14047.0,0,At-Risk Customers
+14048.0,1,VIP Customers
+14049.0,3,New/Occasional
+14050.0,0,At-Risk Customers
+14051.0,2,Loyal Regulars
+14052.0,0,At-Risk Customers
+14053.0,0,At-Risk Customers
+14054.0,0,At-Risk Customers
+14055.0,0,At-Risk Customers
+14056.0,2,Loyal Regulars
+14057.0,2,Loyal Regulars
+14059.0,1,VIP Customers
+14060.0,2,Loyal Regulars
+14062.0,2,Loyal Regulars
+14064.0,0,At-Risk Customers
+14066.0,1,VIP Customers
+14067.0,0,At-Risk Customers
+14068.0,1,VIP Customers
+14071.0,3,New/Occasional
+14073.0,0,At-Risk Customers
+14075.0,0,At-Risk Customers
+14076.0,0,At-Risk Customers
+14077.0,0,At-Risk Customers
+14078.0,0,At-Risk Customers
+14079.0,0,At-Risk Customers
+14080.0,0,At-Risk Customers
+14081.0,1,VIP Customers
+14082.0,1,VIP Customers
+14083.0,3,New/Occasional
+14085.0,3,New/Occasional
+14087.0,0,At-Risk Customers
+14089.0,0,At-Risk Customers
+14090.0,1,VIP Customers
+14092.0,3,New/Occasional
+14093.0,0,At-Risk Customers
+14098.0,0,At-Risk Customers
+14099.0,3,New/Occasional
+14100.0,0,At-Risk Customers
+14101.0,3,New/Occasional
+14102.0,0,At-Risk Customers
+14104.0,1,VIP Customers
+14105.0,1,VIP Customers
+14107.0,3,New/Occasional
+14108.0,0,At-Risk Customers
+14109.0,0,At-Risk Customers
+14110.0,3,New/Occasional
+14111.0,0,At-Risk Customers
+14112.0,3,New/Occasional
+14113.0,0,At-Risk Customers
+14114.0,1,VIP Customers
+14116.0,0,At-Risk Customers
+14117.0,0,At-Risk Customers
+14121.0,3,New/Occasional
+14124.0,0,At-Risk Customers
+14125.0,0,At-Risk Customers
+14126.0,0,At-Risk Customers
+14127.0,0,At-Risk Customers
+14128.0,0,At-Risk Customers
+14129.0,0,At-Risk Customers
+14130.0,1,VIP Customers
+14132.0,3,New/Occasional
+14133.0,0,At-Risk Customers
+14135.0,3,New/Occasional
+14138.0,0,At-Risk Customers
+14139.0,0,At-Risk Customers
+14140.0,0,At-Risk Customers
+14141.0,0,At-Risk Customers
+14142.0,1,VIP Customers
+14143.0,0,At-Risk Customers
+14145.0,3,New/Occasional
+14146.0,3,New/Occasional
+14147.0,0,At-Risk Customers
+14148.0,1,VIP Customers
+14149.0,1,VIP Customers
+14150.0,0,At-Risk Customers
+14152.0,0,At-Risk Customers
+14154.0,1,VIP Customers
+14155.0,1,VIP Customers
+14157.0,0,At-Risk Customers
+14158.0,0,At-Risk Customers
+14159.0,3,New/Occasional
+14161.0,1,VIP Customers
+14162.0,1,VIP Customers
+14163.0,0,At-Risk Customers
+14164.0,0,At-Risk Customers
+14165.0,1,VIP Customers
+14167.0,0,At-Risk Customers
+14171.0,0,At-Risk Customers
+14173.0,0,At-Risk Customers
+14174.0,0,At-Risk Customers
+14175.0,3,New/Occasional
+14176.0,1,VIP Customers
+14177.0,0,At-Risk Customers
+14178.0,3,New/Occasional
+14179.0,0,At-Risk Customers
+14180.0,2,Loyal Regulars
+14184.0,0,At-Risk Customers
+14185.0,1,VIP Customers
+14188.0,3,New/Occasional
+14189.0,3,New/Occasional
+14191.0,3,New/Occasional
+14193.0,0,At-Risk Customers
+14194.0,2,Loyal Regulars
+14195.0,1,VIP Customers
+14196.0,0,At-Risk Customers
+14198.0,0,At-Risk Customers
+14199.0,1,VIP Customers
+14201.0,0,At-Risk Customers
+14204.0,0,At-Risk Customers
+14205.0,0,At-Risk Customers
+14206.0,1,VIP Customers
+14208.0,0,At-Risk Customers
+14209.0,3,New/Occasional
+14210.0,0,At-Risk Customers
+14211.0,3,New/Occasional
+14212.0,0,At-Risk Customers
+14214.0,0,At-Risk Customers
+14215.0,3,New/Occasional
+14216.0,0,At-Risk Customers
+14217.0,3,New/Occasional
+14218.0,0,At-Risk Customers
+14219.0,0,At-Risk Customers
+14220.0,1,VIP Customers
+14221.0,3,New/Occasional
+14222.0,1,VIP Customers
+14223.0,0,At-Risk Customers
+14224.0,0,At-Risk Customers
+14226.0,3,New/Occasional
+14227.0,3,New/Occasional
+14229.0,0,At-Risk Customers
+14231.0,1,VIP Customers
+14232.0,0,At-Risk Customers
+14233.0,0,At-Risk Customers
+14234.0,0,At-Risk Customers
+14235.0,3,New/Occasional
+14236.0,0,At-Risk Customers
+14237.0,1,VIP Customers
+14238.0,1,VIP Customers
+14239.0,3,New/Occasional
+14240.0,0,At-Risk Customers
+14241.0,1,VIP Customers
+14242.0,1,VIP Customers
+14243.0,3,New/Occasional
+14245.0,1,VIP Customers
+14246.0,0,At-Risk Customers
+14247.0,1,VIP Customers
+14248.0,1,VIP Customers
+14250.0,0,At-Risk Customers
+14251.0,3,New/Occasional
+14256.0,1,VIP Customers
+14257.0,3,New/Occasional
+14258.0,2,Loyal Regulars
+14259.0,0,At-Risk Customers
+14261.0,0,At-Risk Customers
+14262.0,3,New/Occasional
+14264.0,1,VIP Customers
+14265.0,0,At-Risk Customers
+14267.0,1,VIP Customers
+14270.0,1,VIP Customers
+14271.0,1,VIP Customers
+14272.0,0,At-Risk Customers
+14273.0,0,At-Risk Customers
+14276.0,0,At-Risk Customers
+14277.0,3,New/Occasional
+14280.0,1,VIP Customers
+14282.0,3,New/Occasional
+14284.0,0,At-Risk Customers
+14285.0,0,At-Risk Customers
+14286.0,3,New/Occasional
+14287.0,0,At-Risk Customers
+14288.0,1,VIP Customers
+14289.0,0,At-Risk Customers
+14290.0,3,New/Occasional
+14291.0,3,New/Occasional
+14292.0,3,New/Occasional
+14293.0,0,At-Risk Customers
+14295.0,0,At-Risk Customers
+14297.0,0,At-Risk Customers
+14299.0,3,New/Occasional
+14300.0,0,At-Risk Customers
+14301.0,0,At-Risk Customers
+14304.0,1,VIP Customers
+14305.0,0,At-Risk Customers
+14306.0,0,At-Risk Customers
+14307.0,3,New/Occasional
+14309.0,3,New/Occasional
+14311.0,1,VIP Customers
+14312.0,0,At-Risk Customers
+14314.0,0,At-Risk Customers
+14315.0,3,New/Occasional
+14317.0,0,At-Risk Customers
+14320.0,1,VIP Customers
+14321.0,0,At-Risk Customers
+14323.0,0,At-Risk Customers
+14326.0,1,VIP Customers
+14327.0,1,VIP Customers
+14329.0,3,New/Occasional
+14331.0,0,At-Risk Customers
+14332.0,0,At-Risk Customers
+14333.0,0,At-Risk Customers
+14334.0,3,New/Occasional
+14335.0,0,At-Risk Customers
+14336.0,0,At-Risk Customers
+14338.0,1,VIP Customers
+14339.0,1,VIP Customers
+14340.0,1,VIP Customers
+14341.0,3,New/Occasional
+14342.0,0,At-Risk Customers
+14344.0,0,At-Risk Customers
+14345.0,0,At-Risk Customers
+14346.0,0,At-Risk Customers
+14348.0,1,VIP Customers
+14349.0,0,At-Risk Customers
+14350.0,1,VIP Customers
+14351.0,1,VIP Customers
+14352.0,0,At-Risk Customers
+14353.0,1,VIP Customers
+14354.0,0,At-Risk Customers
+14355.0,1,VIP Customers
+14356.0,0,At-Risk Customers
+14357.0,0,At-Risk Customers
+14359.0,0,At-Risk Customers
+14360.0,0,At-Risk Customers
+14362.0,0,At-Risk Customers
+14364.0,3,New/Occasional
+14367.0,2,Loyal Regulars
+14368.0,1,VIP Customers
+14371.0,1,VIP Customers
+14373.0,1,VIP Customers
+14375.0,1,VIP Customers
+14377.0,1,VIP Customers
+14379.0,0,At-Risk Customers
+14381.0,0,At-Risk Customers
+14382.0,0,At-Risk Customers
+14383.0,0,At-Risk Customers
+14385.0,0,At-Risk Customers
+14386.0,1,VIP Customers
+14387.0,0,At-Risk Customers
+14388.0,3,New/Occasional
+14389.0,0,At-Risk Customers
+14390.0,3,New/Occasional
+14393.0,1,VIP Customers
+14395.0,3,New/Occasional
+14396.0,0,At-Risk Customers
+14397.0,3,New/Occasional
+14400.0,1,VIP Customers
+14401.0,3,New/Occasional
+14403.0,0,At-Risk Customers
+14404.0,0,At-Risk Customers
+14406.0,0,At-Risk Customers
+14407.0,3,New/Occasional
+14408.0,3,New/Occasional
+14409.0,3,New/Occasional
+14410.0,3,New/Occasional
+14411.0,1,VIP Customers
+14412.0,0,At-Risk Customers
+14413.0,1,VIP Customers
+14414.0,0,At-Risk Customers
+14415.0,3,New/Occasional
+14416.0,0,At-Risk Customers
+14418.0,0,At-Risk Customers
+14419.0,0,At-Risk Customers
+14420.0,0,At-Risk Customers
+14421.0,0,At-Risk Customers
+14422.0,3,New/Occasional
+14423.0,1,VIP Customers
+14424.0,0,At-Risk Customers
+14426.0,3,New/Occasional
+14427.0,0,At-Risk Customers
+14428.0,0,At-Risk Customers
+14431.0,1,VIP Customers
+14432.0,3,New/Occasional
+14434.0,0,At-Risk Customers
+14436.0,0,At-Risk Customers
+14437.0,1,VIP Customers
+14438.0,1,VIP Customers
+14439.0,1,VIP Customers
+14440.0,3,New/Occasional
+14441.0,0,At-Risk Customers
+14442.0,1,VIP Customers
+14443.0,0,At-Risk Customers
+14446.0,0,At-Risk Customers
+14447.0,0,At-Risk Customers
+14448.0,0,At-Risk Customers
+14449.0,0,At-Risk Customers
+14450.0,1,VIP Customers
+14451.0,0,At-Risk Customers
+14452.0,0,At-Risk Customers
+14453.0,1,VIP Customers
+14456.0,3,New/Occasional
+14457.0,1,VIP Customers
+14459.0,1,VIP Customers
+14460.0,0,At-Risk Customers
+14461.0,0,At-Risk Customers
+14462.0,3,New/Occasional
+14463.0,0,At-Risk Customers
+14465.0,1,VIP Customers
+14466.0,3,New/Occasional
+14467.0,0,At-Risk Customers
+14470.0,0,At-Risk Customers
+14472.0,3,New/Occasional
+14473.0,0,At-Risk Customers
+14474.0,0,At-Risk Customers
+14475.0,0,At-Risk Customers
+14476.0,1,VIP Customers
+14477.0,0,At-Risk Customers
+14479.0,1,VIP Customers
+14480.0,0,At-Risk Customers
+14481.0,1,VIP Customers
+14482.0,3,New/Occasional
+14483.0,1,VIP Customers
+14484.0,0,At-Risk Customers
+14485.0,0,At-Risk Customers
+14487.0,0,At-Risk Customers
+14488.0,0,At-Risk Customers
+14489.0,1,VIP Customers
+14491.0,1,VIP Customers
+14493.0,3,New/Occasional
+14494.0,0,At-Risk Customers
+14495.0,0,At-Risk Customers
+14496.0,1,VIP Customers
+14497.0,1,VIP Customers
+14498.0,0,At-Risk Customers
+14499.0,0,At-Risk Customers
+14500.0,0,At-Risk Customers
+14501.0,1,VIP Customers
+14502.0,3,New/Occasional
+14503.0,3,New/Occasional
+14504.0,0,At-Risk Customers
+14505.0,3,New/Occasional
+14506.0,0,At-Risk Customers
+14507.0,0,At-Risk Customers
+14508.0,0,At-Risk Customers
+14511.0,0,At-Risk Customers
+14512.0,1,VIP Customers
+14513.0,0,At-Risk Customers
+14514.0,0,At-Risk Customers
+14515.0,3,New/Occasional
+14517.0,0,At-Risk Customers
+14518.0,0,At-Risk Customers
+14520.0,0,At-Risk Customers
+14522.0,0,At-Risk Customers
+14523.0,0,At-Risk Customers
+14524.0,3,New/Occasional
+14525.0,3,New/Occasional
+14527.0,2,Loyal Regulars
+14528.0,0,At-Risk Customers
+14529.0,0,At-Risk Customers
+14530.0,3,New/Occasional
+14532.0,1,VIP Customers
+14533.0,3,New/Occasional
+14534.0,3,New/Occasional
+14535.0,0,At-Risk Customers
+14536.0,1,VIP Customers
+14537.0,0,At-Risk Customers
+14538.0,0,At-Risk Customers
+14539.0,0,At-Risk Customers
+14540.0,0,At-Risk Customers
+14541.0,3,New/Occasional
+14542.0,1,VIP Customers
+14543.0,3,New/Occasional
+14544.0,0,At-Risk Customers
+14546.0,3,New/Occasional
+14547.0,3,New/Occasional
+14548.0,0,At-Risk Customers
+14549.0,1,VIP Customers
+14550.0,0,At-Risk Customers
+14551.0,0,At-Risk Customers
+14552.0,1,VIP Customers
+14553.0,0,At-Risk Customers
+14554.0,0,At-Risk Customers
+14555.0,0,At-Risk Customers
+14557.0,0,At-Risk Customers
+14560.0,3,New/Occasional
+14561.0,0,At-Risk Customers
+14562.0,2,Loyal Regulars
+14565.0,3,New/Occasional
+14566.0,0,At-Risk Customers
+14567.0,0,At-Risk Customers
+14569.0,0,At-Risk Customers
+14570.0,1,VIP Customers
+14572.0,3,New/Occasional
+14573.0,3,New/Occasional
+14576.0,1,VIP Customers
+14577.0,0,At-Risk Customers
+14578.0,0,At-Risk Customers
+14581.0,0,At-Risk Customers
+14582.0,0,At-Risk Customers
+14583.0,0,At-Risk Customers
+14584.0,1,VIP Customers
+14585.0,0,At-Risk Customers
+14586.0,1,VIP Customers
+14587.0,3,New/Occasional
+14589.0,1,VIP Customers
+14591.0,0,At-Risk Customers
+14592.0,0,At-Risk Customers
+14593.0,0,At-Risk Customers
+14594.0,0,At-Risk Customers
+14595.0,3,New/Occasional
+14597.0,0,At-Risk Customers
+14598.0,0,At-Risk Customers
+14600.0,1,VIP Customers
+14601.0,0,At-Risk Customers
+14603.0,1,VIP Customers
+14606.0,2,Loyal Regulars
+14607.0,2,Loyal Regulars
+14608.0,0,At-Risk Customers
+14609.0,0,At-Risk Customers
+14616.0,1,VIP Customers
+14618.0,0,At-Risk Customers
+14619.0,1,VIP Customers
+14620.0,1,VIP Customers
+14621.0,0,At-Risk Customers
+14622.0,1,VIP Customers
+14623.0,0,At-Risk Customers
+14624.0,0,At-Risk Customers
+14625.0,1,VIP Customers
+14626.0,3,New/Occasional
+14628.0,0,At-Risk Customers
+14629.0,0,At-Risk Customers
+14631.0,0,At-Risk Customers
+14632.0,1,VIP Customers
+14633.0,1,VIP Customers
+14636.0,0,At-Risk Customers
+14638.0,0,At-Risk Customers
+14639.0,3,New/Occasional
+14640.0,3,New/Occasional
+14641.0,0,At-Risk Customers
+14642.0,0,At-Risk Customers
+14643.0,1,VIP Customers
+14644.0,0,At-Risk Customers
+14645.0,1,VIP Customers
+14647.0,1,VIP Customers
+14649.0,0,At-Risk Customers
+14651.0,0,At-Risk Customers
+14652.0,0,At-Risk Customers
+14653.0,3,New/Occasional
+14655.0,0,At-Risk Customers
+14656.0,1,VIP Customers
+14657.0,0,At-Risk Customers
+14658.0,0,At-Risk Customers
+14659.0,3,New/Occasional
+14660.0,0,At-Risk Customers
+14661.0,0,At-Risk Customers
+14662.0,0,At-Risk Customers
+14664.0,0,At-Risk Customers
+14665.0,0,At-Risk Customers
+14666.0,0,At-Risk Customers
+14667.0,2,Loyal Regulars
+14669.0,1,VIP Customers
+14670.0,1,VIP Customers
+14672.0,1,VIP Customers
+14673.0,0,At-Risk Customers
+14675.0,0,At-Risk Customers
+14676.0,3,New/Occasional
+14681.0,0,At-Risk Customers
+14682.0,1,VIP Customers
+14684.0,0,At-Risk Customers
+14687.0,0,At-Risk Customers
+14688.0,2,Loyal Regulars
+14689.0,1,VIP Customers
+14690.0,0,At-Risk Customers
+14691.0,3,New/Occasional
+14692.0,0,At-Risk Customers
+14693.0,1,VIP Customers
+14696.0,3,New/Occasional
+14697.0,1,VIP Customers
+14698.0,0,At-Risk Customers
+14699.0,1,VIP Customers
+14700.0,0,At-Risk Customers
+14701.0,3,New/Occasional
+14702.0,3,New/Occasional
+14703.0,0,At-Risk Customers
+14704.0,3,New/Occasional
+14705.0,1,VIP Customers
+14708.0,0,At-Risk Customers
+14709.0,3,New/Occasional
+14710.0,0,At-Risk Customers
+14711.0,3,New/Occasional
+14712.0,0,At-Risk Customers
+14713.0,3,New/Occasional
+14714.0,0,At-Risk Customers
+14715.0,0,At-Risk Customers
+14716.0,0,At-Risk Customers
+14719.0,0,At-Risk Customers
+14720.0,0,At-Risk Customers
+14722.0,0,At-Risk Customers
+14723.0,0,At-Risk Customers
+14725.0,0,At-Risk Customers
+14727.0,1,VIP Customers
+14729.0,1,VIP Customers
+14730.0,3,New/Occasional
+14731.0,0,At-Risk Customers
+14732.0,3,New/Occasional
+14733.0,2,Loyal Regulars
+14735.0,2,Loyal Regulars
+14737.0,0,At-Risk Customers
+14738.0,0,At-Risk Customers
+14739.0,3,New/Occasional
+14740.0,1,VIP Customers
+14741.0,0,At-Risk Customers
+14744.0,0,At-Risk Customers
+14745.0,0,At-Risk Customers
+14747.0,1,VIP Customers
+14748.0,0,At-Risk Customers
+14752.0,0,At-Risk Customers
+14753.0,0,At-Risk Customers
+14754.0,0,At-Risk Customers
+14755.0,3,New/Occasional
+14756.0,0,At-Risk Customers
+14757.0,0,At-Risk Customers
+14758.0,0,At-Risk Customers
+14759.0,0,At-Risk Customers
+14760.0,1,VIP Customers
+14761.0,0,At-Risk Customers
+14762.0,1,VIP Customers
+14764.0,0,At-Risk Customers
+14765.0,0,At-Risk Customers
+14766.0,3,New/Occasional
+14768.0,0,At-Risk Customers
+14769.0,2,Loyal Regulars
+14770.0,1,VIP Customers
+14772.0,0,At-Risk Customers
+14775.0,0,At-Risk Customers
+14776.0,3,New/Occasional
+14778.0,0,At-Risk Customers
+14779.0,1,VIP Customers
+14780.0,0,At-Risk Customers
+14782.0,1,VIP Customers
+14784.0,0,At-Risk Customers
+14785.0,0,At-Risk Customers
+14788.0,0,At-Risk Customers
+14789.0,0,At-Risk Customers
+14790.0,0,At-Risk Customers
+14792.0,0,At-Risk Customers
+14793.0,0,At-Risk Customers
+14794.0,3,New/Occasional
+14795.0,1,VIP Customers
+14796.0,2,Loyal Regulars
+14798.0,0,At-Risk Customers
+14799.0,0,At-Risk Customers
+14800.0,3,New/Occasional
+14801.0,0,At-Risk Customers
+14803.0,1,VIP Customers
+14804.0,0,At-Risk Customers
+14805.0,0,At-Risk Customers
+14806.0,0,At-Risk Customers
+14808.0,3,New/Occasional
+14810.0,3,New/Occasional
+14813.0,1,VIP Customers
+14815.0,0,At-Risk Customers
+14816.0,1,VIP Customers
+14817.0,1,VIP Customers
+14818.0,0,At-Risk Customers
+14819.0,0,At-Risk Customers
+14820.0,0,At-Risk Customers
+14821.0,1,VIP Customers
+14823.0,1,VIP Customers
+14824.0,0,At-Risk Customers
+14825.0,3,New/Occasional
+14828.0,1,VIP Customers
+14829.0,0,At-Risk Customers
+14830.0,0,At-Risk Customers
+14834.0,3,New/Occasional
+14836.0,0,At-Risk Customers
+14837.0,0,At-Risk Customers
+14840.0,1,VIP Customers
+14841.0,3,New/Occasional
+14842.0,3,New/Occasional
+14844.0,3,New/Occasional
+14847.0,1,VIP Customers
+14849.0,2,Loyal Regulars
+14850.0,1,VIP Customers
+14851.0,0,At-Risk Customers
+14852.0,3,New/Occasional
+14853.0,0,At-Risk Customers
+14854.0,3,New/Occasional
+14855.0,0,At-Risk Customers
+14856.0,0,At-Risk Customers
+14857.0,0,At-Risk Customers
+14859.0,0,At-Risk Customers
+14860.0,0,At-Risk Customers
+14861.0,0,At-Risk Customers
+14862.0,0,At-Risk Customers
+14863.0,0,At-Risk Customers
+14865.0,0,At-Risk Customers
+14866.0,2,Loyal Regulars
+14867.0,1,VIP Customers
+14868.0,3,New/Occasional
+14869.0,0,At-Risk Customers
+14870.0,1,VIP Customers
+14871.0,0,At-Risk Customers
+14873.0,1,VIP Customers
+14875.0,0,At-Risk Customers
+14878.0,3,New/Occasional
+14880.0,0,At-Risk Customers
+14881.0,0,At-Risk Customers
+14882.0,0,At-Risk Customers
+14883.0,0,At-Risk Customers
+14885.0,0,At-Risk Customers
+14886.0,1,VIP Customers
+14887.0,0,At-Risk Customers
+14888.0,1,VIP Customers
+14889.0,1,VIP Customers
+14890.0,1,VIP Customers
+14891.0,0,At-Risk Customers
+14893.0,0,At-Risk Customers
+14894.0,0,At-Risk Customers
+14895.0,2,Loyal Regulars
+14896.0,1,VIP Customers
+14897.0,0,At-Risk Customers
+14898.0,0,At-Risk Customers
+14901.0,3,New/Occasional
+14902.0,0,At-Risk Customers
+14903.0,3,New/Occasional
+14904.0,0,At-Risk Customers
+14905.0,1,VIP Customers
+14907.0,3,New/Occasional
+14908.0,0,At-Risk Customers
+14910.0,0,At-Risk Customers
+14912.0,0,At-Risk Customers
+14913.0,0,At-Risk Customers
+14915.0,0,At-Risk Customers
+14916.0,0,At-Risk Customers
+14918.0,0,At-Risk Customers
+14920.0,1,VIP Customers
+14921.0,0,At-Risk Customers
+14923.0,0,At-Risk Customers
+14924.0,1,VIP Customers
+14929.0,0,At-Risk Customers
+14930.0,0,At-Risk Customers
+14931.0,0,At-Risk Customers
+14932.0,1,VIP Customers
+14934.0,0,At-Risk Customers
+14935.0,1,VIP Customers
+14936.0,3,New/Occasional
+14937.0,0,At-Risk Customers
+14944.0,3,New/Occasional
+14946.0,0,At-Risk Customers
+14947.0,0,At-Risk Customers
+14948.0,0,At-Risk Customers
+14950.0,0,At-Risk Customers
+14951.0,0,At-Risk Customers
+14952.0,2,Loyal Regulars
+14953.0,0,At-Risk Customers
+14954.0,0,At-Risk Customers
+14957.0,1,VIP Customers
+14958.0,0,At-Risk Customers
+14959.0,0,At-Risk Customers
+14960.0,0,At-Risk Customers
+14961.0,3,New/Occasional
+14962.0,1,VIP Customers
+14963.0,0,At-Risk Customers
+14964.0,1,VIP Customers
+14965.0,0,At-Risk Customers
+14966.0,0,At-Risk Customers
+14967.0,0,At-Risk Customers
+14968.0,0,At-Risk Customers
+14970.0,0,At-Risk Customers
+14971.0,0,At-Risk Customers
+14972.0,0,At-Risk Customers
+14973.0,0,At-Risk Customers
+14974.0,0,At-Risk Customers
+14975.0,0,At-Risk Customers
+14976.0,0,At-Risk Customers
+14978.0,0,At-Risk Customers
+14981.0,1,VIP Customers
+14984.0,0,At-Risk Customers
+14985.0,1,VIP Customers
+14987.0,0,At-Risk Customers
+14988.0,1,VIP Customers
+14995.0,0,At-Risk Customers
+14997.0,0,At-Risk Customers
+14998.0,1,VIP Customers
+15000.0,0,At-Risk Customers
+15002.0,0,At-Risk Customers
+15004.0,0,At-Risk Customers
+15005.0,2,Loyal Regulars
+15006.0,0,At-Risk Customers
+15007.0,1,VIP Customers
+15009.0,0,At-Risk Customers
+15010.0,0,At-Risk Customers
+15012.0,0,At-Risk Customers
+15014.0,0,At-Risk Customers
+15016.0,1,VIP Customers
+15017.0,0,At-Risk Customers
+15018.0,0,At-Risk Customers
+15019.0,1,VIP Customers
+15021.0,3,New/Occasional
+15022.0,0,At-Risk Customers
+15023.0,3,New/Occasional
+15024.0,3,New/Occasional
+15025.0,0,At-Risk Customers
+15026.0,0,At-Risk Customers
+15027.0,0,At-Risk Customers
+15028.0,0,At-Risk Customers
+15030.0,0,At-Risk Customers
+15031.0,0,At-Risk Customers
+15032.0,1,VIP Customers
+15033.0,3,New/Occasional
+15034.0,3,New/Occasional
+15035.0,0,At-Risk Customers
+15036.0,0,At-Risk Customers
+15038.0,0,At-Risk Customers
+15041.0,1,VIP Customers
+15042.0,1,VIP Customers
+15043.0,0,At-Risk Customers
+15044.0,2,Loyal Regulars
+15045.0,1,VIP Customers
+15046.0,3,New/Occasional
+15047.0,1,VIP Customers
+15048.0,0,At-Risk Customers
+15049.0,1,VIP Customers
+15050.0,0,At-Risk Customers
+15051.0,0,At-Risk Customers
+15052.0,1,VIP Customers
+15053.0,0,At-Risk Customers
+15054.0,0,At-Risk Customers
+15057.0,1,VIP Customers
+15058.0,3,New/Occasional
+15059.0,3,New/Occasional
+15060.0,0,At-Risk Customers
+15062.0,0,At-Risk Customers
+15063.0,1,VIP Customers
+15065.0,3,New/Occasional
+15066.0,0,At-Risk Customers
+15067.0,0,At-Risk Customers
+15068.0,0,At-Risk Customers
+15069.0,1,VIP Customers
+15070.0,1,VIP Customers
+15071.0,0,At-Risk Customers
+15073.0,0,At-Risk Customers
+15074.0,0,At-Risk Customers
+15075.0,0,At-Risk Customers
+15076.0,1,VIP Customers
+15078.0,2,Loyal Regulars
+15079.0,1,VIP Customers
+15081.0,0,At-Risk Customers
+15083.0,1,VIP Customers
+15087.0,1,VIP Customers
+15088.0,0,At-Risk Customers
+15089.0,3,New/Occasional
+15090.0,1,VIP Customers
+15091.0,0,At-Risk Customers
+15092.0,1,VIP Customers
+15093.0,3,New/Occasional
+15095.0,0,At-Risk Customers
+15096.0,0,At-Risk Customers
+15097.0,0,At-Risk Customers
+15098.0,1,VIP Customers
+15099.0,0,At-Risk Customers
+15100.0,1,VIP Customers
+15101.0,0,At-Risk Customers
+15103.0,0,At-Risk Customers
+15104.0,1,VIP Customers
+15105.0,3,New/Occasional
+15106.0,0,At-Risk Customers
+15107.0,1,VIP Customers
+15108.0,0,At-Risk Customers
+15109.0,1,VIP Customers
+15110.0,0,At-Risk Customers
+15111.0,0,At-Risk Customers
+15113.0,3,New/Occasional
+15114.0,3,New/Occasional
+15115.0,0,At-Risk Customers
+15116.0,0,At-Risk Customers
+15117.0,0,At-Risk Customers
+15118.0,0,At-Risk Customers
+15119.0,1,VIP Customers
+15120.0,0,At-Risk Customers
+15121.0,0,At-Risk Customers
+15122.0,0,At-Risk Customers
+15123.0,0,At-Risk Customers
+15124.0,0,At-Risk Customers
+15125.0,2,Loyal Regulars
+15127.0,0,At-Risk Customers
+15128.0,0,At-Risk Customers
+15129.0,3,New/Occasional
+15130.0,1,VIP Customers
+15132.0,0,At-Risk Customers
+15133.0,0,At-Risk Customers
+15134.0,3,New/Occasional
+15135.0,1,VIP Customers
+15136.0,0,At-Risk Customers
+15139.0,1,VIP Customers
+15140.0,3,New/Occasional
+15142.0,0,At-Risk Customers
+15143.0,1,VIP Customers
+15144.0,2,Loyal Regulars
+15145.0,0,At-Risk Customers
+15146.0,1,VIP Customers
+15147.0,1,VIP Customers
+15148.0,0,At-Risk Customers
+15149.0,0,At-Risk Customers
+15150.0,3,New/Occasional
+15152.0,3,New/Occasional
+15153.0,0,At-Risk Customers
+15154.0,0,At-Risk Customers
+15156.0,0,At-Risk Customers
+15157.0,0,At-Risk Customers
+15158.0,0,At-Risk Customers
+15160.0,1,VIP Customers
+15163.0,0,At-Risk Customers
+15164.0,0,At-Risk Customers
+15165.0,1,VIP Customers
+15167.0,1,VIP Customers
+15168.0,0,At-Risk Customers
+15171.0,1,VIP Customers
+15172.0,0,At-Risk Customers
+15174.0,1,VIP Customers
+15175.0,0,At-Risk Customers
+15178.0,1,VIP Customers
+15179.0,3,New/Occasional
+15180.0,1,VIP Customers
+15181.0,0,At-Risk Customers
+15182.0,1,VIP Customers
+15184.0,0,At-Risk Customers
+15185.0,0,At-Risk Customers
+15186.0,0,At-Risk Customers
+15187.0,3,New/Occasional
+15189.0,2,Loyal Regulars
+15192.0,0,At-Risk Customers
+15193.0,0,At-Risk Customers
+15194.0,2,Loyal Regulars
+15197.0,0,At-Risk Customers
+15198.0,0,At-Risk Customers
+15199.0,0,At-Risk Customers
+15201.0,0,At-Risk Customers
+15203.0,3,New/Occasional
+15204.0,1,VIP Customers
+15205.0,0,At-Risk Customers
+15206.0,0,At-Risk Customers
+15208.0,0,At-Risk Customers
+15210.0,1,VIP Customers
+15211.0,0,At-Risk Customers
+15212.0,1,VIP Customers
+15213.0,1,VIP Customers
+15214.0,3,New/Occasional
+15215.0,0,At-Risk Customers
+15216.0,0,At-Risk Customers
+15218.0,3,New/Occasional
+15219.0,1,VIP Customers
+15220.0,0,At-Risk Customers
+15221.0,1,VIP Customers
+15222.0,1,VIP Customers
+15223.0,1,VIP Customers
+15224.0,1,VIP Customers
+15225.0,1,VIP Customers
+15226.0,1,VIP Customers
+15227.0,0,At-Risk Customers
+15228.0,3,New/Occasional
+15230.0,1,VIP Customers
+15232.0,0,At-Risk Customers
+15234.0,1,VIP Customers
+15235.0,3,New/Occasional
+15236.0,1,VIP Customers
+15237.0,0,At-Risk Customers
+15238.0,0,At-Risk Customers
+15239.0,0,At-Risk Customers
+15240.0,0,At-Risk Customers
+15241.0,3,New/Occasional
+15243.0,0,At-Risk Customers
+15244.0,0,At-Risk Customers
+15245.0,0,At-Risk Customers
+15246.0,1,VIP Customers
+15247.0,0,At-Risk Customers
+15249.0,2,Loyal Regulars
+15251.0,2,Loyal Regulars
+15252.0,0,At-Risk Customers
+15253.0,0,At-Risk Customers
+15254.0,0,At-Risk Customers
+15255.0,0,At-Risk Customers
+15256.0,1,VIP Customers
+15257.0,1,VIP Customers
+15258.0,1,VIP Customers
+15260.0,3,New/Occasional
+15261.0,0,At-Risk Customers
+15262.0,1,VIP Customers
+15263.0,0,At-Risk Customers
+15264.0,0,At-Risk Customers
+15265.0,0,At-Risk Customers
+15266.0,1,VIP Customers
+15267.0,0,At-Risk Customers
+15269.0,0,At-Risk Customers
+15270.0,3,New/Occasional
+15271.0,3,New/Occasional
+15272.0,0,At-Risk Customers
+15274.0,0,At-Risk Customers
+15275.0,0,At-Risk Customers
+15276.0,0,At-Risk Customers
+15277.0,0,At-Risk Customers
+15279.0,1,VIP Customers
+15280.0,1,VIP Customers
+15281.0,3,New/Occasional
+15286.0,0,At-Risk Customers
+15287.0,0,At-Risk Customers
+15288.0,3,New/Occasional
+15289.0,0,At-Risk Customers
+15290.0,2,Loyal Regulars
+15291.0,3,New/Occasional
+15292.0,1,VIP Customers
+15296.0,3,New/Occasional
+15297.0,0,At-Risk Customers
+15298.0,3,New/Occasional
+15299.0,3,New/Occasional
+15300.0,0,At-Risk Customers
+15301.0,3,New/Occasional
+15303.0,1,VIP Customers
+15304.0,0,At-Risk Customers
+15306.0,0,At-Risk Customers
+15307.0,0,At-Risk Customers
+15308.0,1,VIP Customers
+15312.0,0,At-Risk Customers
+15313.0,0,At-Risk Customers
+15314.0,1,VIP Customers
+15315.0,0,At-Risk Customers
+15316.0,1,VIP Customers
+15318.0,0,At-Risk Customers
+15319.0,1,VIP Customers
+15320.0,0,At-Risk Customers
+15321.0,0,At-Risk Customers
+15322.0,0,At-Risk Customers
+15325.0,0,At-Risk Customers
+15326.0,1,VIP Customers
+15327.0,0,At-Risk Customers
+15329.0,0,At-Risk Customers
+15330.0,0,At-Risk Customers
+15332.0,1,VIP Customers
+15333.0,1,VIP Customers
+15334.0,1,VIP Customers
+15335.0,0,At-Risk Customers
+15339.0,0,At-Risk Customers
+15341.0,0,At-Risk Customers
+15342.0,0,At-Risk Customers
+15343.0,0,At-Risk Customers
+15344.0,0,At-Risk Customers
+15345.0,0,At-Risk Customers
+15346.0,1,VIP Customers
+15347.0,1,VIP Customers
+15348.0,0,At-Risk Customers
+15349.0,1,VIP Customers
+15350.0,1,VIP Customers
+15351.0,3,New/Occasional
+15353.0,1,VIP Customers
+15355.0,0,At-Risk Customers
+15356.0,3,New/Occasional
+15358.0,2,Loyal Regulars
+15360.0,0,At-Risk Customers
+15361.0,1,VIP Customers
+15363.0,1,VIP Customers
+15364.0,0,At-Risk Customers
+15365.0,3,New/Occasional
+15366.0,0,At-Risk Customers
+15367.0,0,At-Risk Customers
+15368.0,0,At-Risk Customers
+15370.0,3,New/Occasional
+15372.0,0,At-Risk Customers
+15373.0,3,New/Occasional
+15374.0,0,At-Risk Customers
+15376.0,0,At-Risk Customers
+15379.0,3,New/Occasional
+15380.0,0,At-Risk Customers
+15381.0,1,VIP Customers
+15382.0,3,New/Occasional
+15384.0,1,VIP Customers
+15385.0,0,At-Risk Customers
+15386.0,1,VIP Customers
+15388.0,1,VIP Customers
+15389.0,1,VIP Customers
+15392.0,0,At-Risk Customers
+15393.0,0,At-Risk Customers
+15394.0,0,At-Risk Customers
+15395.0,1,VIP Customers
+15396.0,0,At-Risk Customers
+15397.0,1,VIP Customers
+15398.0,0,At-Risk Customers
+15399.0,0,At-Risk Customers
+15400.0,0,At-Risk Customers
+15402.0,0,At-Risk Customers
+15405.0,1,VIP Customers
+15406.0,0,At-Risk Customers
+15407.0,0,At-Risk Customers
+15408.0,1,VIP Customers
+15410.0,3,New/Occasional
+15411.0,0,At-Risk Customers
+15412.0,1,VIP Customers
+15414.0,0,At-Risk Customers
+15415.0,1,VIP Customers
+15416.0,3,New/Occasional
+15417.0,0,At-Risk Customers
+15419.0,0,At-Risk Customers
+15421.0,0,At-Risk Customers
+15422.0,1,VIP Customers
+15423.0,0,At-Risk Customers
+15424.0,1,VIP Customers
+15426.0,0,At-Risk Customers
+15427.0,0,At-Risk Customers
+15428.0,0,At-Risk Customers
+15429.0,0,At-Risk Customers
+15432.0,0,At-Risk Customers
+15433.0,1,VIP Customers
+15434.0,0,At-Risk Customers
+15435.0,0,At-Risk Customers
+15436.0,0,At-Risk Customers
+15437.0,1,VIP Customers
+15438.0,0,At-Risk Customers
+15440.0,0,At-Risk Customers
+15442.0,1,VIP Customers
+15443.0,3,New/Occasional
+15444.0,0,At-Risk Customers
+15445.0,1,VIP Customers
+15447.0,1,VIP Customers
+15448.0,1,VIP Customers
+15449.0,0,At-Risk Customers
+15450.0,0,At-Risk Customers
+15452.0,0,At-Risk Customers
+15453.0,3,New/Occasional
+15454.0,1,VIP Customers
+15456.0,1,VIP Customers
+15457.0,1,VIP Customers
+15458.0,0,At-Risk Customers
+15460.0,1,VIP Customers
+15462.0,0,At-Risk Customers
+15463.0,0,At-Risk Customers
+15464.0,1,VIP Customers
+15465.0,2,Loyal Regulars
+15466.0,0,At-Risk Customers
+15467.0,0,At-Risk Customers
+15468.0,0,At-Risk Customers
+15469.0,0,At-Risk Customers
+15471.0,0,At-Risk Customers
+15472.0,0,At-Risk Customers
+15473.0,3,New/Occasional
+15475.0,0,At-Risk Customers
+15478.0,0,At-Risk Customers
+15480.0,0,At-Risk Customers
+15482.0,2,Loyal Regulars
+15483.0,1,VIP Customers
+15484.0,3,New/Occasional
+15485.0,0,At-Risk Customers
+15488.0,0,At-Risk Customers
+15489.0,0,At-Risk Customers
+15491.0,3,New/Occasional
+15492.0,0,At-Risk Customers
+15493.0,0,At-Risk Customers
+15494.0,0,At-Risk Customers
+15497.0,0,At-Risk Customers
+15498.0,2,Loyal Regulars
+15500.0,0,At-Risk Customers
+15502.0,3,New/Occasional
+15503.0,1,VIP Customers
+15504.0,0,At-Risk Customers
+15505.0,3,New/Occasional
+15506.0,0,At-Risk Customers
+15507.0,1,VIP Customers
+15508.0,1,VIP Customers
+15510.0,1,VIP Customers
+15511.0,0,At-Risk Customers
+15512.0,1,VIP Customers
+15513.0,2,Loyal Regulars
+15514.0,3,New/Occasional
+15516.0,0,At-Risk Customers
+15517.0,1,VIP Customers
+15518.0,3,New/Occasional
+15520.0,0,At-Risk Customers
+15521.0,3,New/Occasional
+15522.0,0,At-Risk Customers
+15523.0,0,At-Risk Customers
+15524.0,0,At-Risk Customers
+15525.0,0,At-Risk Customers
+15526.0,0,At-Risk Customers
+15527.0,3,New/Occasional
+15528.0,1,VIP Customers
+15529.0,3,New/Occasional
+15530.0,0,At-Risk Customers
+15531.0,0,At-Risk Customers
+15532.0,0,At-Risk Customers
+15533.0,0,At-Risk Customers
+15535.0,1,VIP Customers
+15537.0,1,VIP Customers
+15539.0,0,At-Risk Customers
+15540.0,0,At-Risk Customers
+15541.0,0,At-Risk Customers
+15543.0,1,VIP Customers
+15544.0,3,New/Occasional
+15545.0,0,At-Risk Customers
+15547.0,3,New/Occasional
+15549.0,0,At-Risk Customers
+15550.0,0,At-Risk Customers
+15551.0,0,At-Risk Customers
+15552.0,1,VIP Customers
+15553.0,0,At-Risk Customers
+15554.0,1,VIP Customers
+15555.0,3,New/Occasional
+15556.0,0,At-Risk Customers
+15557.0,0,At-Risk Customers
+15561.0,0,At-Risk Customers
+15562.0,1,VIP Customers
+15563.0,0,At-Risk Customers
+15565.0,0,At-Risk Customers
+15567.0,0,At-Risk Customers
+15568.0,0,At-Risk Customers
+15569.0,0,At-Risk Customers
+15570.0,3,New/Occasional
+15571.0,0,At-Risk Customers
+15572.0,3,New/Occasional
+15573.0,0,At-Risk Customers
+15574.0,1,VIP Customers
+15576.0,0,At-Risk Customers
+15577.0,0,At-Risk Customers
+15578.0,1,VIP Customers
+15579.0,0,At-Risk Customers
+15581.0,3,New/Occasional
+15582.0,0,At-Risk Customers
+15584.0,0,At-Risk Customers
+15585.0,1,VIP Customers
+15587.0,0,At-Risk Customers
+15589.0,1,VIP Customers
+15592.0,0,At-Risk Customers
+15593.0,0,At-Risk Customers
+15594.0,0,At-Risk Customers
+15596.0,0,At-Risk Customers
+15597.0,0,At-Risk Customers
+15598.0,0,At-Risk Customers
+15599.0,0,At-Risk Customers
+15601.0,2,Loyal Regulars
+15602.0,3,New/Occasional
+15603.0,0,At-Risk Customers
+15604.0,0,At-Risk Customers
+15605.0,0,At-Risk Customers
+15606.0,3,New/Occasional
+15607.0,1,VIP Customers
+15608.0,0,At-Risk Customers
+15609.0,1,VIP Customers
+15610.0,0,At-Risk Customers
+15611.0,3,New/Occasional
+15612.0,0,At-Risk Customers
+15615.0,2,Loyal Regulars
+15618.0,0,At-Risk Customers
+15619.0,0,At-Risk Customers
+15620.0,0,At-Risk Customers
+15621.0,0,At-Risk Customers
+15622.0,3,New/Occasional
+15623.0,0,At-Risk Customers
+15624.0,0,At-Risk Customers
+15625.0,0,At-Risk Customers
+15626.0,0,At-Risk Customers
+15628.0,3,New/Occasional
+15630.0,0,At-Risk Customers
+15632.0,3,New/Occasional
+15634.0,0,At-Risk Customers
+15636.0,0,At-Risk Customers
+15637.0,0,At-Risk Customers
+15639.0,0,At-Risk Customers
+15640.0,2,Loyal Regulars
+15641.0,0,At-Risk Customers
+15643.0,1,VIP Customers
+15644.0,1,VIP Customers
+15645.0,0,At-Risk Customers
+15646.0,1,VIP Customers
+15648.0,1,VIP Customers
+15649.0,1,VIP Customers
+15651.0,0,At-Risk Customers
+15652.0,0,At-Risk Customers
+15653.0,0,At-Risk Customers
+15654.0,0,At-Risk Customers
+15655.0,1,VIP Customers
+15656.0,0,At-Risk Customers
+15657.0,0,At-Risk Customers
+15658.0,1,VIP Customers
+15659.0,0,At-Risk Customers
+15660.0,3,New/Occasional
+15661.0,1,VIP Customers
+15663.0,0,At-Risk Customers
+15664.0,0,At-Risk Customers
+15665.0,1,VIP Customers
+15667.0,0,At-Risk Customers
+15668.0,1,VIP Customers
+15669.0,0,At-Risk Customers
+15670.0,1,VIP Customers
+15671.0,3,New/Occasional
+15673.0,3,New/Occasional
+15674.0,3,New/Occasional
+15675.0,0,At-Risk Customers
+15676.0,3,New/Occasional
+15677.0,0,At-Risk Customers
+15678.0,0,At-Risk Customers
+15679.0,0,At-Risk Customers
+15680.0,0,At-Risk Customers
+15681.0,0,At-Risk Customers
+15683.0,0,At-Risk Customers
+15687.0,3,New/Occasional
+15689.0,0,At-Risk Customers
+15690.0,0,At-Risk Customers
+15691.0,1,VIP Customers
+15692.0,0,At-Risk Customers
+15694.0,2,Loyal Regulars
+15695.0,1,VIP Customers
+15696.0,3,New/Occasional
+15699.0,0,At-Risk Customers
+15700.0,1,VIP Customers
+15701.0,0,At-Risk Customers
+15703.0,1,VIP Customers
+15704.0,0,At-Risk Customers
+15705.0,1,VIP Customers
+15706.0,0,At-Risk Customers
+15707.0,0,At-Risk Customers
+15708.0,3,New/Occasional
+15709.0,1,VIP Customers
+15712.0,0,At-Risk Customers
+15713.0,0,At-Risk Customers
+15714.0,0,At-Risk Customers
+15716.0,0,At-Risk Customers
+15717.0,1,VIP Customers
+15719.0,3,New/Occasional
+15720.0,0,At-Risk Customers
+15721.0,0,At-Risk Customers
+15722.0,3,New/Occasional
+15723.0,1,VIP Customers
+15724.0,1,VIP Customers
+15725.0,0,At-Risk Customers
+15727.0,3,New/Occasional
+15729.0,1,VIP Customers
+15730.0,0,At-Risk Customers
+15732.0,1,VIP Customers
+15733.0,1,VIP Customers
+15734.0,0,At-Risk Customers
+15737.0,3,New/Occasional
+15738.0,3,New/Occasional
+15739.0,0,At-Risk Customers
+15740.0,0,At-Risk Customers
+15743.0,0,At-Risk Customers
+15744.0,0,At-Risk Customers
+15745.0,0,At-Risk Customers
+15746.0,0,At-Risk Customers
+15747.0,0,At-Risk Customers
+15748.0,0,At-Risk Customers
+15750.0,3,New/Occasional
+15752.0,3,New/Occasional
+15753.0,1,VIP Customers
+15754.0,0,At-Risk Customers
+15755.0,3,New/Occasional
+15756.0,0,At-Risk Customers
+15757.0,0,At-Risk Customers
+15758.0,0,At-Risk Customers
+15759.0,1,VIP Customers
+15762.0,0,At-Risk Customers
+15763.0,0,At-Risk Customers
+15764.0,3,New/Occasional
+15766.0,0,At-Risk Customers
+15768.0,0,At-Risk Customers
+15773.0,0,At-Risk Customers
+15774.0,0,At-Risk Customers
+15775.0,1,VIP Customers
+15776.0,0,At-Risk Customers
+15777.0,1,VIP Customers
+15780.0,1,VIP Customers
+15781.0,0,At-Risk Customers
+15782.0,0,At-Risk Customers
+15783.0,0,At-Risk Customers
+15785.0,3,New/Occasional
+15786.0,3,New/Occasional
+15787.0,0,At-Risk Customers
+15789.0,1,VIP Customers
+15790.0,0,At-Risk Customers
+15791.0,0,At-Risk Customers
+15793.0,0,At-Risk Customers
+15795.0,1,VIP Customers
+15796.0,3,New/Occasional
+15797.0,0,At-Risk Customers
+15799.0,0,At-Risk Customers
+15800.0,0,At-Risk Customers
+15801.0,0,At-Risk Customers
+15802.0,0,At-Risk Customers
+15803.0,0,At-Risk Customers
+15804.0,3,New/Occasional
+15805.0,2,Loyal Regulars
+15806.0,0,At-Risk Customers
+15807.0,0,At-Risk Customers
+15808.0,1,VIP Customers
+15809.0,0,At-Risk Customers
+15810.0,0,At-Risk Customers
+15811.0,3,New/Occasional
+15812.0,0,At-Risk Customers
+15813.0,1,VIP Customers
+15814.0,0,At-Risk Customers
+15815.0,0,At-Risk Customers
+15819.0,0,At-Risk Customers
+15820.0,1,VIP Customers
+15821.0,0,At-Risk Customers
+15822.0,0,At-Risk Customers
+15823.0,1,VIP Customers
+15825.0,1,VIP Customers
+15826.0,0,At-Risk Customers
+15827.0,3,New/Occasional
+15829.0,0,At-Risk Customers
+15830.0,0,At-Risk Customers
+15831.0,0,At-Risk Customers
+15832.0,1,VIP Customers
+15834.0,0,At-Risk Customers
+15835.0,0,At-Risk Customers
+15836.0,0,At-Risk Customers
+15837.0,0,At-Risk Customers
+15839.0,0,At-Risk Customers
+15840.0,0,At-Risk Customers
+15841.0,0,At-Risk Customers
+15843.0,1,VIP Customers
+15844.0,0,At-Risk Customers
+15845.0,3,New/Occasional
+15847.0,0,At-Risk Customers
+15850.0,0,At-Risk Customers
+15852.0,1,VIP Customers
+15853.0,0,At-Risk Customers
+15854.0,3,New/Occasional
+15855.0,0,At-Risk Customers
+15856.0,2,Loyal Regulars
+15857.0,0,At-Risk Customers
+15858.0,0,At-Risk Customers
+15860.0,0,At-Risk Customers
+15861.0,3,New/Occasional
+15862.0,0,At-Risk Customers
+15863.0,0,At-Risk Customers
+15864.0,3,New/Occasional
+15865.0,0,At-Risk Customers
+15866.0,0,At-Risk Customers
+15867.0,3,New/Occasional
+15869.0,1,VIP Customers
+15870.0,0,At-Risk Customers
+15872.0,0,At-Risk Customers
+15874.0,3,New/Occasional
+15877.0,0,At-Risk Customers
+15880.0,1,VIP Customers
+15881.0,1,VIP Customers
+15882.0,1,VIP Customers
+15883.0,0,At-Risk Customers
+15885.0,0,At-Risk Customers
+15886.0,0,At-Risk Customers
+15888.0,0,At-Risk Customers
+15889.0,1,VIP Customers
+15891.0,1,VIP Customers
+15894.0,1,VIP Customers
+15895.0,1,VIP Customers
+15897.0,1,VIP Customers
+15898.0,0,At-Risk Customers
+15899.0,1,VIP Customers
+15900.0,0,At-Risk Customers
+15901.0,0,At-Risk Customers
+15903.0,3,New/Occasional
+15904.0,0,At-Risk Customers
+15906.0,3,New/Occasional
+15907.0,0,At-Risk Customers
+15909.0,1,VIP Customers
+15910.0,3,New/Occasional
+15912.0,1,VIP Customers
+15916.0,3,New/Occasional
+15917.0,1,VIP Customers
+15918.0,1,VIP Customers
+15919.0,0,At-Risk Customers
+15920.0,1,VIP Customers
+15921.0,1,VIP Customers
+15922.0,1,VIP Customers
+15923.0,1,VIP Customers
+15925.0,1,VIP Customers
+15930.0,0,At-Risk Customers
+15932.0,3,New/Occasional
+15933.0,0,At-Risk Customers
+15935.0,1,VIP Customers
+15937.0,0,At-Risk Customers
+15938.0,0,At-Risk Customers
+15939.0,2,Loyal Regulars
+15940.0,1,VIP Customers
+15942.0,0,At-Risk Customers
+15944.0,1,VIP Customers
+15945.0,1,VIP Customers
+15947.0,0,At-Risk Customers
+15948.0,0,At-Risk Customers
+15949.0,0,At-Risk Customers
+15950.0,0,At-Risk Customers
+15951.0,0,At-Risk Customers
+15952.0,0,At-Risk Customers
+15953.0,3,New/Occasional
+15955.0,3,New/Occasional
+15957.0,0,At-Risk Customers
+15958.0,0,At-Risk Customers
+15963.0,0,At-Risk Customers
+15965.0,0,At-Risk Customers
+15967.0,0,At-Risk Customers
+15969.0,0,At-Risk Customers
+15970.0,1,VIP Customers
+15971.0,3,New/Occasional
+15973.0,1,VIP Customers
+15974.0,3,New/Occasional
+15975.0,0,At-Risk Customers
+15976.0,1,VIP Customers
+15977.0,0,At-Risk Customers
+15978.0,0,At-Risk Customers
+15980.0,0,At-Risk Customers
+15981.0,3,New/Occasional
+15983.0,0,At-Risk Customers
+15984.0,3,New/Occasional
+15985.0,0,At-Risk Customers
+15986.0,0,At-Risk Customers
+15987.0,3,New/Occasional
+15988.0,0,At-Risk Customers
+15990.0,0,At-Risk Customers
+15992.0,0,At-Risk Customers
+15993.0,3,New/Occasional
+15994.0,0,At-Risk Customers
+15996.0,0,At-Risk Customers
+15998.0,3,New/Occasional
+16000.0,0,At-Risk Customers
+16003.0,3,New/Occasional
+16005.0,0,At-Risk Customers
+16006.0,1,VIP Customers
+16007.0,0,At-Risk Customers
+16008.0,0,At-Risk Customers
+16009.0,0,At-Risk Customers
+16010.0,1,VIP Customers
+16011.0,3,New/Occasional
+16012.0,0,At-Risk Customers
+16014.0,0,At-Risk Customers
+16015.0,0,At-Risk Customers
+16016.0,3,New/Occasional
+16017.0,0,At-Risk Customers
+16018.0,0,At-Risk Customers
+16019.0,3,New/Occasional
+16020.0,0,At-Risk Customers
+16022.0,1,VIP Customers
+16023.0,0,At-Risk Customers
+16024.0,0,At-Risk Customers
+16025.0,0,At-Risk Customers
+16026.0,0,At-Risk Customers
+16027.0,0,At-Risk Customers
+16030.0,1,VIP Customers
+16031.0,0,At-Risk Customers
+16033.0,2,Loyal Regulars
+16034.0,1,VIP Customers
+16036.0,0,At-Risk Customers
+16037.0,1,VIP Customers
+16038.0,0,At-Risk Customers
+16040.0,0,At-Risk Customers
+16041.0,0,At-Risk Customers
+16042.0,0,At-Risk Customers
+16043.0,0,At-Risk Customers
+16045.0,0,At-Risk Customers
+16048.0,1,VIP Customers
+16049.0,0,At-Risk Customers
+16050.0,1,VIP Customers
+16052.0,0,At-Risk Customers
+16053.0,0,At-Risk Customers
+16054.0,0,At-Risk Customers
+16055.0,1,VIP Customers
+16056.0,0,At-Risk Customers
+16057.0,3,New/Occasional
+16059.0,0,At-Risk Customers
+16062.0,0,At-Risk Customers
+16063.0,1,VIP Customers
+16065.0,1,VIP Customers
+16066.0,0,At-Risk Customers
+16070.0,0,At-Risk Customers
+16071.0,0,At-Risk Customers
+16072.0,1,VIP Customers
+16073.0,1,VIP Customers
+16076.0,3,New/Occasional
+16078.0,1,VIP Customers
+16079.0,0,At-Risk Customers
+16080.0,0,At-Risk Customers
+16081.0,3,New/Occasional
+16083.0,0,At-Risk Customers
+16084.0,1,VIP Customers
+16085.0,0,At-Risk Customers
+16086.0,0,At-Risk Customers
+16091.0,1,VIP Customers
+16092.0,0,At-Risk Customers
+16093.0,0,At-Risk Customers
+16094.0,0,At-Risk Customers
+16096.0,1,VIP Customers
+16097.0,1,VIP Customers
+16098.0,3,New/Occasional
+16099.0,0,At-Risk Customers
+16101.0,0,At-Risk Customers
+16102.0,0,At-Risk Customers
+16103.0,0,At-Risk Customers
+16104.0,0,At-Risk Customers
+16105.0,1,VIP Customers
+16106.0,0,At-Risk Customers
+16107.0,3,New/Occasional
+16108.0,0,At-Risk Customers
+16109.0,1,VIP Customers
+16110.0,0,At-Risk Customers
+16112.0,0,At-Risk Customers
+16113.0,1,VIP Customers
+16114.0,1,VIP Customers
+16115.0,3,New/Occasional
+16116.0,1,VIP Customers
+16117.0,1,VIP Customers
+16119.0,0,At-Risk Customers
+16120.0,0,At-Risk Customers
+16121.0,0,At-Risk Customers
+16122.0,0,At-Risk Customers
+16123.0,0,At-Risk Customers
+16124.0,1,VIP Customers
+16125.0,1,VIP Customers
+16126.0,3,New/Occasional
+16127.0,0,At-Risk Customers
+16128.0,0,At-Risk Customers
+16131.0,3,New/Occasional
+16133.0,2,Loyal Regulars
+16134.0,0,At-Risk Customers
+16135.0,1,VIP Customers
+16136.0,0,At-Risk Customers
+16139.0,0,At-Risk Customers
+16140.0,0,At-Risk Customers
+16141.0,0,At-Risk Customers
+16142.0,1,VIP Customers
+16143.0,3,New/Occasional
+16144.0,1,VIP Customers
+16145.0,3,New/Occasional
+16146.0,1,VIP Customers
+16147.0,0,At-Risk Customers
+16148.0,1,VIP Customers
+16149.0,0,At-Risk Customers
+16150.0,0,At-Risk Customers
+16152.0,1,VIP Customers
+16153.0,0,At-Risk Customers
+16156.0,3,New/Occasional
+16157.0,0,At-Risk Customers
+16159.0,1,VIP Customers
+16160.0,0,At-Risk Customers
+16161.0,2,Loyal Regulars
+16162.0,1,VIP Customers
+16163.0,1,VIP Customers
+16164.0,0,At-Risk Customers
+16168.0,2,Loyal Regulars
+16169.0,0,At-Risk Customers
+16170.0,3,New/Occasional
+16171.0,0,At-Risk Customers
+16172.0,0,At-Risk Customers
+16173.0,0,At-Risk Customers
+16174.0,0,At-Risk Customers
+16175.0,0,At-Risk Customers
+16177.0,0,At-Risk Customers
+16178.0,0,At-Risk Customers
+16179.0,0,At-Risk Customers
+16180.0,2,Loyal Regulars
+16181.0,0,At-Risk Customers
+16182.0,3,New/Occasional
+16183.0,0,At-Risk Customers
+16184.0,0,At-Risk Customers
+16185.0,0,At-Risk Customers
+16186.0,3,New/Occasional
+16187.0,2,Loyal Regulars
+16188.0,0,At-Risk Customers
+16189.0,0,At-Risk Customers
+16190.0,0,At-Risk Customers
+16191.0,3,New/Occasional
+16193.0,1,VIP Customers
+16198.0,0,At-Risk Customers
+16200.0,0,At-Risk Customers
+16201.0,0,At-Risk Customers
+16202.0,1,VIP Customers
+16203.0,0,At-Risk Customers
+16204.0,0,At-Risk Customers
+16205.0,0,At-Risk Customers
+16206.0,0,At-Risk Customers
+16207.0,0,At-Risk Customers
+16208.0,0,At-Risk Customers
+16209.0,0,At-Risk Customers
+16210.0,2,Loyal Regulars
+16211.0,0,At-Risk Customers
+16212.0,0,At-Risk Customers
+16213.0,0,At-Risk Customers
+16214.0,1,VIP Customers
+16215.0,0,At-Risk Customers
+16216.0,1,VIP Customers
+16217.0,1,VIP Customers
+16218.0,3,New/Occasional
+16221.0,0,At-Risk Customers
+16222.0,1,VIP Customers
+16224.0,0,At-Risk Customers
+16225.0,0,At-Risk Customers
+16226.0,1,VIP Customers
+16227.0,1,VIP Customers
+16229.0,0,At-Risk Customers
+16230.0,1,VIP Customers
+16232.0,0,At-Risk Customers
+16233.0,0,At-Risk Customers
+16235.0,0,At-Risk Customers
+16236.0,0,At-Risk Customers
+16239.0,0,At-Risk Customers
+16240.0,3,New/Occasional
+16241.0,3,New/Occasional
+16242.0,3,New/Occasional
+16243.0,0,At-Risk Customers
+16244.0,1,VIP Customers
+16245.0,0,At-Risk Customers
+16247.0,1,VIP Customers
+16248.0,0,At-Risk Customers
+16249.0,0,At-Risk Customers
+16250.0,1,VIP Customers
+16253.0,3,New/Occasional
+16255.0,3,New/Occasional
+16256.0,1,VIP Customers
+16257.0,1,VIP Customers
+16258.0,3,New/Occasional
+16260.0,0,At-Risk Customers
+16261.0,0,At-Risk Customers
+16265.0,3,New/Occasional
+16266.0,0,At-Risk Customers
+16268.0,0,At-Risk Customers
+16270.0,1,VIP Customers
+16271.0,0,At-Risk Customers
+16272.0,0,At-Risk Customers
+16274.0,1,VIP Customers
+16275.0,1,VIP Customers
+16276.0,1,VIP Customers
+16278.0,0,At-Risk Customers
+16279.0,0,At-Risk Customers
+16281.0,0,At-Risk Customers
+16282.0,1,VIP Customers
+16283.0,0,At-Risk Customers
+16284.0,0,At-Risk Customers
+16287.0,1,VIP Customers
+16292.0,0,At-Risk Customers
+16293.0,3,New/Occasional
+16295.0,0,At-Risk Customers
+16297.0,1,VIP Customers
+16298.0,0,At-Risk Customers
+16302.0,0,At-Risk Customers
+16303.0,3,New/Occasional
+16305.0,0,At-Risk Customers
+16306.0,1,VIP Customers
+16308.0,0,At-Risk Customers
+16309.0,0,At-Risk Customers
+16311.0,0,At-Risk Customers
+16313.0,0,At-Risk Customers
+16315.0,1,VIP Customers
+16316.0,3,New/Occasional
+16317.0,0,At-Risk Customers
+16318.0,0,At-Risk Customers
+16319.0,1,VIP Customers
+16320.0,1,VIP Customers
+16321.0,0,At-Risk Customers
+16322.0,0,At-Risk Customers
+16323.0,1,VIP Customers
+16324.0,0,At-Risk Customers
+16325.0,0,At-Risk Customers
+16326.0,3,New/Occasional
+16327.0,3,New/Occasional
+16330.0,0,At-Risk Customers
+16332.0,3,New/Occasional
+16333.0,2,Loyal Regulars
+16337.0,0,At-Risk Customers
+16338.0,1,VIP Customers
+16339.0,1,VIP Customers
+16340.0,0,At-Risk Customers
+16341.0,0,At-Risk Customers
+16342.0,0,At-Risk Customers
+16343.0,0,At-Risk Customers
+16344.0,1,VIP Customers
+16345.0,0,At-Risk Customers
+16347.0,0,At-Risk Customers
+16348.0,3,New/Occasional
+16349.0,1,VIP Customers
+16350.0,0,At-Risk Customers
+16351.0,1,VIP Customers
+16352.0,0,At-Risk Customers
+16353.0,2,Loyal Regulars
+16354.0,0,At-Risk Customers
+16356.0,1,VIP Customers
+16357.0,0,At-Risk Customers
+16358.0,0,At-Risk Customers
+16359.0,3,New/Occasional
+16360.0,3,New/Occasional
+16361.0,0,At-Risk Customers
+16362.0,0,At-Risk Customers
+16363.0,0,At-Risk Customers
+16364.0,0,At-Risk Customers
+16365.0,3,New/Occasional
+16366.0,0,At-Risk Customers
+16367.0,0,At-Risk Customers
+16368.0,0,At-Risk Customers
+16369.0,0,At-Risk Customers
+16370.0,0,At-Risk Customers
+16372.0,0,At-Risk Customers
+16374.0,0,At-Risk Customers
+16376.0,0,At-Risk Customers
+16377.0,1,VIP Customers
+16378.0,1,VIP Customers
+16379.0,0,At-Risk Customers
+16380.0,0,At-Risk Customers
+16383.0,0,At-Risk Customers
+16384.0,0,At-Risk Customers
+16385.0,0,At-Risk Customers
+16386.0,0,At-Risk Customers
+16387.0,1,VIP Customers
+16389.0,0,At-Risk Customers
+16392.0,1,VIP Customers
+16393.0,3,New/Occasional
+16394.0,0,At-Risk Customers
+16395.0,0,At-Risk Customers
+16398.0,0,At-Risk Customers
+16399.0,0,At-Risk Customers
+16400.0,0,At-Risk Customers
+16401.0,3,New/Occasional
+16402.0,1,VIP Customers
+16403.0,1,VIP Customers
+16404.0,0,At-Risk Customers
+16405.0,1,VIP Customers
+16406.0,0,At-Risk Customers
+16407.0,3,New/Occasional
+16409.0,0,At-Risk Customers
+16411.0,0,At-Risk Customers
+16412.0,0,At-Risk Customers
+16413.0,0,At-Risk Customers
+16414.0,0,At-Risk Customers
+16415.0,0,At-Risk Customers
+16416.0,0,At-Risk Customers
+16418.0,0,At-Risk Customers
+16419.0,0,At-Risk Customers
+16423.0,0,At-Risk Customers
+16424.0,1,VIP Customers
+16425.0,1,VIP Customers
+16426.0,3,New/Occasional
+16427.0,1,VIP Customers
+16429.0,0,At-Risk Customers
+16430.0,0,At-Risk Customers
+16431.0,1,VIP Customers
+16432.0,0,At-Risk Customers
+16433.0,0,At-Risk Customers
+16434.0,3,New/Occasional
+16438.0,0,At-Risk Customers
+16440.0,3,New/Occasional
+16441.0,0,At-Risk Customers
+16442.0,0,At-Risk Customers
+16444.0,0,At-Risk Customers
+16445.0,0,At-Risk Customers
+16446.0,1,VIP Customers
+16447.0,0,At-Risk Customers
+16448.0,1,VIP Customers
+16449.0,1,VIP Customers
+16450.0,1,VIP Customers
+16451.0,0,At-Risk Customers
+16454.0,0,At-Risk Customers
+16455.0,3,New/Occasional
+16456.0,0,At-Risk Customers
+16457.0,1,VIP Customers
+16458.0,3,New/Occasional
+16460.0,0,At-Risk Customers
+16461.0,1,VIP Customers
+16462.0,0,At-Risk Customers
+16463.0,0,At-Risk Customers
+16464.0,0,At-Risk Customers
+16466.0,3,New/Occasional
+16468.0,0,At-Risk Customers
+16469.0,0,At-Risk Customers
+16470.0,0,At-Risk Customers
+16471.0,1,VIP Customers
+16473.0,1,VIP Customers
+16474.0,3,New/Occasional
+16475.0,0,At-Risk Customers
+16477.0,3,New/Occasional
+16478.0,0,At-Risk Customers
+16479.0,0,At-Risk Customers
+16480.0,0,At-Risk Customers
+16482.0,0,At-Risk Customers
+16483.0,1,VIP Customers
+16484.0,1,VIP Customers
+16485.0,0,At-Risk Customers
+16488.0,0,At-Risk Customers
+16491.0,0,At-Risk Customers
+16493.0,0,At-Risk Customers
+16494.0,1,VIP Customers
+16495.0,0,At-Risk Customers
+16496.0,0,At-Risk Customers
+16497.0,3,New/Occasional
+16498.0,1,VIP Customers
+16499.0,1,VIP Customers
+16500.0,0,At-Risk Customers
+16503.0,0,At-Risk Customers
+16504.0,0,At-Risk Customers
+16505.0,0,At-Risk Customers
+16506.0,0,At-Risk Customers
+16509.0,1,VIP Customers
+16510.0,1,VIP Customers
+16511.0,0,At-Risk Customers
+16513.0,0,At-Risk Customers
+16515.0,0,At-Risk Customers
+16516.0,0,At-Risk Customers
+16517.0,1,VIP Customers
+16518.0,0,At-Risk Customers
+16519.0,0,At-Risk Customers
+16520.0,1,VIP Customers
+16523.0,2,Loyal Regulars
+16525.0,2,Loyal Regulars
+16526.0,1,VIP Customers
+16527.0,0,At-Risk Customers
+16528.0,0,At-Risk Customers
+16529.0,1,VIP Customers
+16531.0,0,At-Risk Customers
+16532.0,0,At-Risk Customers
+16533.0,0,At-Risk Customers
+16535.0,0,At-Risk Customers
+16536.0,0,At-Risk Customers
+16539.0,0,At-Risk Customers
+16542.0,0,At-Risk Customers
+16545.0,1,VIP Customers
+16546.0,1,VIP Customers
+16549.0,3,New/Occasional
+16550.0,0,At-Risk Customers
+16551.0,0,At-Risk Customers
+16552.0,1,VIP Customers
+16553.0,3,New/Occasional
+16554.0,0,At-Risk Customers
+16555.0,0,At-Risk Customers
+16556.0,3,New/Occasional
+16557.0,0,At-Risk Customers
+16558.0,2,Loyal Regulars
+16560.0,0,At-Risk Customers
+16561.0,0,At-Risk Customers
+16563.0,0,At-Risk Customers
+16565.0,1,VIP Customers
+16566.0,0,At-Risk Customers
+16567.0,1,VIP Customers
+16569.0,0,At-Risk Customers
+16570.0,3,New/Occasional
+16571.0,0,At-Risk Customers
+16572.0,0,At-Risk Customers
+16573.0,0,At-Risk Customers
+16574.0,0,At-Risk Customers
+16581.0,1,VIP Customers
+16582.0,0,At-Risk Customers
+16583.0,1,VIP Customers
+16584.0,0,At-Risk Customers
+16586.0,1,VIP Customers
+16587.0,1,VIP Customers
+16589.0,0,At-Risk Customers
+16591.0,0,At-Risk Customers
+16592.0,3,New/Occasional
+16593.0,0,At-Risk Customers
+16594.0,0,At-Risk Customers
+16595.0,0,At-Risk Customers
+16596.0,0,At-Risk Customers
+16597.0,0,At-Risk Customers
+16598.0,1,VIP Customers
+16600.0,0,At-Risk Customers
+16601.0,0,At-Risk Customers
+16602.0,0,At-Risk Customers
+16603.0,0,At-Risk Customers
+16607.0,3,New/Occasional
+16609.0,3,New/Occasional
+16610.0,1,VIP Customers
+16611.0,1,VIP Customers
+16612.0,0,At-Risk Customers
+16613.0,0,At-Risk Customers
+16614.0,1,VIP Customers
+16616.0,0,At-Risk Customers
+16617.0,1,VIP Customers
+16618.0,3,New/Occasional
+16619.0,1,VIP Customers
+16620.0,0,At-Risk Customers
+16621.0,0,At-Risk Customers
+16623.0,1,VIP Customers
+16624.0,0,At-Risk Customers
+16625.0,1,VIP Customers
+16626.0,3,New/Occasional
+16627.0,0,At-Risk Customers
+16628.0,3,New/Occasional
+16629.0,0,At-Risk Customers
+16633.0,3,New/Occasional
+16634.0,1,VIP Customers
+16637.0,0,At-Risk Customers
+16638.0,3,New/Occasional
+16639.0,0,At-Risk Customers
+16641.0,0,At-Risk Customers
+16642.0,0,At-Risk Customers
+16643.0,1,VIP Customers
+16644.0,1,VIP Customers
+16647.0,1,VIP Customers
+16648.0,0,At-Risk Customers
+16650.0,0,At-Risk Customers
+16652.0,3,New/Occasional
+16653.0,0,At-Risk Customers
+16654.0,0,At-Risk Customers
+16655.0,3,New/Occasional
+16656.0,2,Loyal Regulars
+16657.0,0,At-Risk Customers
+16658.0,1,VIP Customers
+16659.0,1,VIP Customers
+16660.0,0,At-Risk Customers
+16665.0,1,VIP Customers
+16666.0,0,At-Risk Customers
+16667.0,0,At-Risk Customers
+16668.0,0,At-Risk Customers
+16669.0,0,At-Risk Customers
+16670.0,3,New/Occasional
+16671.0,0,At-Risk Customers
+16672.0,2,Loyal Regulars
+16674.0,0,At-Risk Customers
+16676.0,0,At-Risk Customers
+16678.0,3,New/Occasional
+16679.0,1,VIP Customers
+16680.0,0,At-Risk Customers
+16681.0,0,At-Risk Customers
+16682.0,0,At-Risk Customers
+16685.0,0,At-Risk Customers
+16686.0,3,New/Occasional
+16688.0,0,At-Risk Customers
+16689.0,0,At-Risk Customers
+16690.0,0,At-Risk Customers
+16692.0,1,VIP Customers
+16693.0,0,At-Risk Customers
+16696.0,0,At-Risk Customers
+16697.0,1,VIP Customers
+16698.0,1,VIP Customers
+16700.0,3,New/Occasional
+16701.0,3,New/Occasional
+16705.0,2,Loyal Regulars
+16706.0,0,At-Risk Customers
+16708.0,0,At-Risk Customers
+16709.0,3,New/Occasional
+16710.0,3,New/Occasional
+16711.0,0,At-Risk Customers
+16712.0,3,New/Occasional
+16713.0,2,Loyal Regulars
+16714.0,1,VIP Customers
+16715.0,0,At-Risk Customers
+16716.0,1,VIP Customers
+16717.0,3,New/Occasional
+16718.0,1,VIP Customers
+16719.0,3,New/Occasional
+16720.0,0,At-Risk Customers
+16721.0,1,VIP Customers
+16722.0,3,New/Occasional
+16723.0,0,At-Risk Customers
+16725.0,1,VIP Customers
+16726.0,0,At-Risk Customers
+16727.0,1,VIP Customers
+16728.0,0,At-Risk Customers
+16729.0,2,Loyal Regulars
+16730.0,0,At-Risk Customers
+16732.0,0,At-Risk Customers
+16734.0,0,At-Risk Customers
+16735.0,3,New/Occasional
+16737.0,0,At-Risk Customers
+16738.0,1,VIP Customers
+16739.0,1,VIP Customers
+16742.0,0,At-Risk Customers
+16743.0,3,New/Occasional
+16744.0,3,New/Occasional
+16745.0,2,Loyal Regulars
+16746.0,2,Loyal Regulars
+16747.0,0,At-Risk Customers
+16748.0,0,At-Risk Customers
+16750.0,0,At-Risk Customers
+16751.0,0,At-Risk Customers
+16752.0,1,VIP Customers
+16753.0,0,At-Risk Customers
+16754.0,1,VIP Customers
+16755.0,0,At-Risk Customers
+16756.0,1,VIP Customers
+16757.0,1,VIP Customers
+16758.0,0,At-Risk Customers
+16759.0,0,At-Risk Customers
+16761.0,0,At-Risk Customers
+16762.0,0,At-Risk Customers
+16763.0,1,VIP Customers
+16764.0,3,New/Occasional
+16765.0,1,VIP Customers
+16766.0,1,VIP Customers
+16767.0,3,New/Occasional
+16768.0,0,At-Risk Customers
+16769.0,1,VIP Customers
+16770.0,0,At-Risk Customers
+16771.0,3,New/Occasional
+16773.0,0,At-Risk Customers
+16774.0,0,At-Risk Customers
+16775.0,3,New/Occasional
+16776.0,0,At-Risk Customers
+16777.0,0,At-Risk Customers
+16778.0,0,At-Risk Customers
+16779.0,2,Loyal Regulars
+16780.0,0,At-Risk Customers
+16781.0,1,VIP Customers
+16782.0,3,New/Occasional
+16784.0,0,At-Risk Customers
+16788.0,0,At-Risk Customers
+16789.0,0,At-Risk Customers
+16790.0,0,At-Risk Customers
+16791.0,3,New/Occasional
+16792.0,1,VIP Customers
+16793.0,0,At-Risk Customers
+16794.0,3,New/Occasional
+16795.0,1,VIP Customers
+16796.0,0,At-Risk Customers
+16800.0,0,At-Risk Customers
+16801.0,1,VIP Customers
+16803.0,0,At-Risk Customers
+16804.0,0,At-Risk Customers
+16805.0,1,VIP Customers
+16806.0,0,At-Risk Customers
+16807.0,0,At-Risk Customers
+16808.0,0,At-Risk Customers
+16809.0,0,At-Risk Customers
+16810.0,1,VIP Customers
+16811.0,0,At-Risk Customers
+16812.0,1,VIP Customers
+16813.0,3,New/Occasional
+16814.0,2,Loyal Regulars
+16816.0,0,At-Risk Customers
+16817.0,3,New/Occasional
+16818.0,3,New/Occasional
+16820.0,0,At-Risk Customers
+16823.0,1,VIP Customers
+16824.0,0,At-Risk Customers
+16825.0,0,At-Risk Customers
+16826.0,0,At-Risk Customers
+16828.0,0,At-Risk Customers
+16829.0,1,VIP Customers
+16830.0,0,At-Risk Customers
+16832.0,1,VIP Customers
+16833.0,0,At-Risk Customers
+16834.0,1,VIP Customers
+16835.0,0,At-Risk Customers
+16836.0,0,At-Risk Customers
+16837.0,3,New/Occasional
+16838.0,1,VIP Customers
+16841.0,3,New/Occasional
+16842.0,0,At-Risk Customers
+16843.0,2,Loyal Regulars
+16846.0,0,At-Risk Customers
+16847.0,0,At-Risk Customers
+16848.0,0,At-Risk Customers
+16849.0,1,VIP Customers
+16850.0,1,VIP Customers
+16851.0,0,At-Risk Customers
+16852.0,0,At-Risk Customers
+16855.0,0,At-Risk Customers
+16856.0,0,At-Risk Customers
+16858.0,1,VIP Customers
+16859.0,0,At-Risk Customers
+16861.0,0,At-Risk Customers
+16863.0,0,At-Risk Customers
+16866.0,0,At-Risk Customers
+16869.0,0,At-Risk Customers
+16871.0,3,New/Occasional
+16872.0,0,At-Risk Customers
+16873.0,3,New/Occasional
+16875.0,0,At-Risk Customers
+16877.0,0,At-Risk Customers
+16878.0,0,At-Risk Customers
+16880.0,3,New/Occasional
+16881.0,0,At-Risk Customers
+16882.0,0,At-Risk Customers
+16883.0,1,VIP Customers
+16884.0,0,At-Risk Customers
+16885.0,0,At-Risk Customers
+16887.0,0,At-Risk Customers
+16889.0,1,VIP Customers
+16891.0,0,At-Risk Customers
+16892.0,0,At-Risk Customers
+16893.0,1,VIP Customers
+16895.0,0,At-Risk Customers
+16897.0,1,VIP Customers
+16898.0,0,At-Risk Customers
+16899.0,0,At-Risk Customers
+16900.0,0,At-Risk Customers
+16902.0,0,At-Risk Customers
+16903.0,0,At-Risk Customers
+16904.0,3,New/Occasional
+16905.0,3,New/Occasional
+16906.0,0,At-Risk Customers
+16907.0,0,At-Risk Customers
+16909.0,0,At-Risk Customers
+16910.0,3,New/Occasional
+16912.0,3,New/Occasional
+16913.0,1,VIP Customers
+16914.0,0,At-Risk Customers
+16915.0,0,At-Risk Customers
+16916.0,0,At-Risk Customers
+16917.0,1,VIP Customers
+16918.0,0,At-Risk Customers
+16919.0,3,New/Occasional
+16921.0,0,At-Risk Customers
+16923.0,2,Loyal Regulars
+16924.0,0,At-Risk Customers
+16926.0,1,VIP Customers
+16927.0,0,At-Risk Customers
+16928.0,3,New/Occasional
+16929.0,3,New/Occasional
+16930.0,0,At-Risk Customers
+16931.0,2,Loyal Regulars
+16932.0,0,At-Risk Customers
+16933.0,0,At-Risk Customers
+16934.0,0,At-Risk Customers
+16936.0,0,At-Risk Customers
+16938.0,3,New/Occasional
+16940.0,3,New/Occasional
+16942.0,3,New/Occasional
+16943.0,1,VIP Customers
+16945.0,3,New/Occasional
+16947.0,1,VIP Customers
+16948.0,0,At-Risk Customers
+16949.0,0,At-Risk Customers
+16950.0,0,At-Risk Customers
+16951.0,0,At-Risk Customers
+16952.0,0,At-Risk Customers
+16953.0,0,At-Risk Customers
+16954.0,3,New/Occasional
+16955.0,1,VIP Customers
+16956.0,0,At-Risk Customers
+16957.0,1,VIP Customers
+16959.0,0,At-Risk Customers
+16960.0,0,At-Risk Customers
+16961.0,0,At-Risk Customers
+16963.0,1,VIP Customers
+16965.0,1,VIP Customers
+16966.0,3,New/Occasional
+16967.0,1,VIP Customers
+16968.0,0,At-Risk Customers
+16969.0,0,At-Risk Customers
+16971.0,0,At-Risk Customers
+16976.0,1,VIP Customers
+16978.0,0,At-Risk Customers
+16979.0,3,New/Occasional
+16980.0,1,VIP Customers
+16982.0,0,At-Risk Customers
+16983.0,3,New/Occasional
+16984.0,3,New/Occasional
+16985.0,3,New/Occasional
+16986.0,0,At-Risk Customers
+16987.0,3,New/Occasional
+16988.0,0,At-Risk Customers
+16989.0,0,At-Risk Customers
+16990.0,1,VIP Customers
+16992.0,0,At-Risk Customers
+16996.0,0,At-Risk Customers
+16997.0,1,VIP Customers
+16998.0,0,At-Risk Customers
+16999.0,0,At-Risk Customers
+17001.0,3,New/Occasional
+17002.0,0,At-Risk Customers
+17004.0,0,At-Risk Customers
+17006.0,0,At-Risk Customers
+17007.0,0,At-Risk Customers
+17010.0,0,At-Risk Customers
+17011.0,0,At-Risk Customers
+17014.0,0,At-Risk Customers
+17015.0,0,At-Risk Customers
+17017.0,2,Loyal Regulars
+17018.0,0,At-Risk Customers
+17019.0,0,At-Risk Customers
+17022.0,0,At-Risk Customers
+17024.0,0,At-Risk Customers
+17025.0,0,At-Risk Customers
+17026.0,1,VIP Customers
+17027.0,0,At-Risk Customers
+17029.0,0,At-Risk Customers
+17030.0,0,At-Risk Customers
+17031.0,0,At-Risk Customers
+17033.0,0,At-Risk Customers
+17034.0,0,At-Risk Customers
+17035.0,1,VIP Customers
+17037.0,0,At-Risk Customers
+17038.0,0,At-Risk Customers
+17040.0,0,At-Risk Customers
+17041.0,0,At-Risk Customers
+17042.0,0,At-Risk Customers
+17043.0,0,At-Risk Customers
+17044.0,0,At-Risk Customers
+17045.0,0,At-Risk Customers
+17046.0,1,VIP Customers
+17047.0,0,At-Risk Customers
+17048.0,0,At-Risk Customers
+17049.0,3,New/Occasional
+17050.0,3,New/Occasional
+17051.0,1,VIP Customers
+17052.0,0,At-Risk Customers
+17053.0,0,At-Risk Customers
+17054.0,0,At-Risk Customers
+17058.0,0,At-Risk Customers
+17059.0,3,New/Occasional
+17060.0,1,VIP Customers
+17061.0,3,New/Occasional
+17062.0,1,VIP Customers
+17063.0,3,New/Occasional
+17064.0,0,At-Risk Customers
+17068.0,2,Loyal Regulars
+17069.0,3,New/Occasional
+17070.0,0,At-Risk Customers
+17071.0,3,New/Occasional
+17073.0,0,At-Risk Customers
+17075.0,0,At-Risk Customers
+17076.0,0,At-Risk Customers
+17078.0,0,At-Risk Customers
+17079.0,0,At-Risk Customers
+17080.0,0,At-Risk Customers
+17081.0,0,At-Risk Customers
+17082.0,0,At-Risk Customers
+17083.0,0,At-Risk Customers
+17084.0,0,At-Risk Customers
+17085.0,0,At-Risk Customers
+17086.0,3,New/Occasional
+17088.0,0,At-Risk Customers
+17090.0,3,New/Occasional
+17091.0,3,New/Occasional
+17092.0,0,At-Risk Customers
+17094.0,1,VIP Customers
+17095.0,0,At-Risk Customers
+17096.0,0,At-Risk Customers
+17097.0,3,New/Occasional
+17100.0,0,At-Risk Customers
+17101.0,0,At-Risk Customers
+17102.0,1,VIP Customers
+17105.0,1,VIP Customers
+17107.0,2,Loyal Regulars
+17109.0,0,At-Risk Customers
+17110.0,1,VIP Customers
+17111.0,0,At-Risk Customers
+17114.0,0,At-Risk Customers
+17115.0,0,At-Risk Customers
+17117.0,1,VIP Customers
+17118.0,1,VIP Customers
+17119.0,0,At-Risk Customers
+17120.0,1,VIP Customers
+17122.0,0,At-Risk Customers
+17123.0,1,VIP Customers
+17124.0,1,VIP Customers
+17125.0,0,At-Risk Customers
+17126.0,0,At-Risk Customers
+17128.0,1,VIP Customers
+17131.0,3,New/Occasional
+17133.0,3,New/Occasional
+17134.0,0,At-Risk Customers
+17135.0,0,At-Risk Customers
+17138.0,1,VIP Customers
+17139.0,2,Loyal Regulars
+17140.0,1,VIP Customers
+17142.0,1,VIP Customers
+17144.0,0,At-Risk Customers
+17146.0,0,At-Risk Customers
+17147.0,0,At-Risk Customers
+17148.0,0,At-Risk Customers
+17152.0,1,VIP Customers
+17153.0,0,At-Risk Customers
+17154.0,0,At-Risk Customers
+17155.0,0,At-Risk Customers
+17157.0,0,At-Risk Customers
+17158.0,0,At-Risk Customers
+17159.0,0,At-Risk Customers
+17160.0,3,New/Occasional
+17162.0,3,New/Occasional
+17163.0,0,At-Risk Customers
+17164.0,3,New/Occasional
+17165.0,1,VIP Customers
+17166.0,0,At-Risk Customers
+17169.0,0,At-Risk Customers
+17171.0,1,VIP Customers
+17172.0,0,At-Risk Customers
+17173.0,3,New/Occasional
+17174.0,1,VIP Customers
+17175.0,0,At-Risk Customers
+17176.0,1,VIP Customers
+17179.0,1,VIP Customers
+17180.0,0,At-Risk Customers
+17181.0,0,At-Risk Customers
+17183.0,3,New/Occasional
+17186.0,0,At-Risk Customers
+17187.0,1,VIP Customers
+17188.0,3,New/Occasional
+17189.0,0,At-Risk Customers
+17190.0,0,At-Risk Customers
+17191.0,3,New/Occasional
+17193.0,3,New/Occasional
+17194.0,1,VIP Customers
+17197.0,0,At-Risk Customers
+17198.0,0,At-Risk Customers
+17201.0,0,At-Risk Customers
+17203.0,3,New/Occasional
+17204.0,1,VIP Customers
+17205.0,0,At-Risk Customers
+17206.0,0,At-Risk Customers
+17211.0,3,New/Occasional
+17212.0,1,VIP Customers
+17213.0,3,New/Occasional
+17214.0,0,At-Risk Customers
+17217.0,1,VIP Customers
+17218.0,3,New/Occasional
+17219.0,0,At-Risk Customers
+17220.0,3,New/Occasional
+17221.0,0,At-Risk Customers
+17222.0,0,At-Risk Customers
+17223.0,1,VIP Customers
+17226.0,1,VIP Customers
+17227.0,0,At-Risk Customers
+17228.0,3,New/Occasional
+17229.0,0,At-Risk Customers
+17230.0,1,VIP Customers
+17231.0,3,New/Occasional
+17232.0,0,At-Risk Customers
+17233.0,0,At-Risk Customers
+17234.0,1,VIP Customers
+17235.0,0,At-Risk Customers
+17236.0,0,At-Risk Customers
+17237.0,0,At-Risk Customers
+17238.0,3,New/Occasional
+17239.0,1,VIP Customers
+17242.0,0,At-Risk Customers
+17243.0,2,Loyal Regulars
+17244.0,0,At-Risk Customers
+17245.0,1,VIP Customers
+17247.0,0,At-Risk Customers
+17248.0,0,At-Risk Customers
+17250.0,0,At-Risk Customers
+17251.0,1,VIP Customers
+17252.0,0,At-Risk Customers
+17253.0,0,At-Risk Customers
+17254.0,0,At-Risk Customers
+17255.0,0,At-Risk Customers
+17256.0,0,At-Risk Customers
+17259.0,0,At-Risk Customers
+17262.0,0,At-Risk Customers
+17263.0,1,VIP Customers
+17265.0,0,At-Risk Customers
+17266.0,0,At-Risk Customers
+17267.0,0,At-Risk Customers
+17268.0,0,At-Risk Customers
+17272.0,0,At-Risk Customers
+17274.0,0,At-Risk Customers
+17277.0,1,VIP Customers
+17278.0,1,VIP Customers
+17279.0,0,At-Risk Customers
+17282.0,0,At-Risk Customers
+17284.0,0,At-Risk Customers
+17286.0,0,At-Risk Customers
+17287.0,0,At-Risk Customers
+17288.0,3,New/Occasional
+17289.0,0,At-Risk Customers
+17290.0,0,At-Risk Customers
+17291.0,1,VIP Customers
+17293.0,3,New/Occasional
+17295.0,0,At-Risk Customers
+17297.0,0,At-Risk Customers
+17298.0,0,At-Risk Customers
+17299.0,0,At-Risk Customers
+17301.0,0,At-Risk Customers
+17302.0,0,At-Risk Customers
+17303.0,1,VIP Customers
+17306.0,2,Loyal Regulars
+17309.0,0,At-Risk Customers
+17311.0,0,At-Risk Customers
+17312.0,0,At-Risk Customers
+17313.0,0,At-Risk Customers
+17314.0,3,New/Occasional
+17315.0,2,Loyal Regulars
+17317.0,0,At-Risk Customers
+17320.0,0,At-Risk Customers
+17321.0,0,At-Risk Customers
+17323.0,0,At-Risk Customers
+17324.0,0,At-Risk Customers
+17325.0,1,VIP Customers
+17329.0,0,At-Risk Customers
+17330.0,0,At-Risk Customers
+17331.0,0,At-Risk Customers
+17333.0,0,At-Risk Customers
+17334.0,1,VIP Customers
+17337.0,0,At-Risk Customers
+17338.0,3,New/Occasional
+17339.0,0,At-Risk Customers
+17340.0,2,Loyal Regulars
+17341.0,1,VIP Customers
+17343.0,1,VIP Customers
+17344.0,0,At-Risk Customers
+17345.0,0,At-Risk Customers
+17346.0,3,New/Occasional
+17347.0,0,At-Risk Customers
+17348.0,0,At-Risk Customers
+17349.0,1,VIP Customers
+17350.0,0,At-Risk Customers
+17351.0,0,At-Risk Customers
+17353.0,0,At-Risk Customers
+17354.0,0,At-Risk Customers
+17356.0,1,VIP Customers
+17357.0,0,At-Risk Customers
+17358.0,1,VIP Customers
+17359.0,0,At-Risk Customers
+17360.0,0,At-Risk Customers
+17361.0,0,At-Risk Customers
+17362.0,1,VIP Customers
+17364.0,3,New/Occasional
+17365.0,3,New/Occasional
+17367.0,1,VIP Customers
+17368.0,3,New/Occasional
+17370.0,0,At-Risk Customers
+17371.0,0,At-Risk Customers
+17372.0,3,New/Occasional
+17373.0,0,At-Risk Customers
+17374.0,1,VIP Customers
+17375.0,1,VIP Customers
+17376.0,0,At-Risk Customers
+17377.0,2,Loyal Regulars
+17379.0,0,At-Risk Customers
+17382.0,0,At-Risk Customers
+17383.0,0,At-Risk Customers
+17384.0,0,At-Risk Customers
+17385.0,0,At-Risk Customers
+17386.0,3,New/Occasional
+17387.0,0,At-Risk Customers
+17388.0,0,At-Risk Customers
+17391.0,1,VIP Customers
+17392.0,1,VIP Customers
+17394.0,1,VIP Customers
+17396.0,3,New/Occasional
+17397.0,0,At-Risk Customers
+17398.0,0,At-Risk Customers
+17400.0,0,At-Risk Customers
+17402.0,3,New/Occasional
+17403.0,0,At-Risk Customers
+17405.0,0,At-Risk Customers
+17406.0,1,VIP Customers
+17408.0,1,VIP Customers
+17409.0,1,VIP Customers
+17410.0,0,At-Risk Customers
+17411.0,0,At-Risk Customers
+17412.0,3,New/Occasional
+17414.0,0,At-Risk Customers
+17415.0,0,At-Risk Customers
+17416.0,3,New/Occasional
+17418.0,0,At-Risk Customers
+17419.0,3,New/Occasional
+17420.0,0,At-Risk Customers
+17422.0,3,New/Occasional
+17423.0,0,At-Risk Customers
+17425.0,0,At-Risk Customers
+17426.0,3,New/Occasional
+17427.0,0,At-Risk Customers
+17429.0,0,At-Risk Customers
+17430.0,0,At-Risk Customers
+17431.0,1,VIP Customers
+17432.0,0,At-Risk Customers
+17433.0,0,At-Risk Customers
+17434.0,3,New/Occasional
+17436.0,0,At-Risk Customers
+17438.0,1,VIP Customers
+17440.0,1,VIP Customers
+17442.0,3,New/Occasional
+17443.0,1,VIP Customers
+17444.0,0,At-Risk Customers
+17446.0,1,VIP Customers
+17447.0,0,At-Risk Customers
+17449.0,3,New/Occasional
+17451.0,3,New/Occasional
+17453.0,0,At-Risk Customers
+17454.0,1,VIP Customers
+17455.0,1,VIP Customers
+17456.0,1,VIP Customers
+17457.0,0,At-Risk Customers
+17458.0,0,At-Risk Customers
+17459.0,0,At-Risk Customers
+17460.0,0,At-Risk Customers
+17461.0,0,At-Risk Customers
+17462.0,0,At-Risk Customers
+17463.0,0,At-Risk Customers
+17464.0,1,VIP Customers
+17466.0,0,At-Risk Customers
+17468.0,0,At-Risk Customers
+17469.0,0,At-Risk Customers
+17470.0,0,At-Risk Customers
+17472.0,1,VIP Customers
+17475.0,0,At-Risk Customers
+17480.0,0,At-Risk Customers
+17481.0,0,At-Risk Customers
+17483.0,0,At-Risk Customers
+17486.0,1,VIP Customers
+17489.0,0,At-Risk Customers
+17490.0,3,New/Occasional
+17491.0,3,New/Occasional
+17492.0,1,VIP Customers
+17495.0,0,At-Risk Customers
+17496.0,1,VIP Customers
+17498.0,0,At-Risk Customers
+17499.0,1,VIP Customers
+17500.0,0,At-Risk Customers
+17501.0,1,VIP Customers
+17502.0,0,At-Risk Customers
+17503.0,0,At-Risk Customers
+17504.0,3,New/Occasional
+17505.0,1,VIP Customers
+17506.0,0,At-Risk Customers
+17507.0,1,VIP Customers
+17508.0,1,VIP Customers
+17509.0,3,New/Occasional
+17510.0,0,At-Risk Customers
+17512.0,3,New/Occasional
+17513.0,0,At-Risk Customers
+17514.0,0,At-Risk Customers
+17515.0,0,At-Risk Customers
+17516.0,0,At-Risk Customers
+17517.0,1,VIP Customers
+17519.0,3,New/Occasional
+17520.0,0,At-Risk Customers
+17521.0,0,At-Risk Customers
+17522.0,0,At-Risk Customers
+17523.0,0,At-Risk Customers
+17524.0,1,VIP Customers
+17525.0,1,VIP Customers
+17526.0,0,At-Risk Customers
+17527.0,0,At-Risk Customers
+17528.0,3,New/Occasional
+17530.0,3,New/Occasional
+17531.0,1,VIP Customers
+17534.0,0,At-Risk Customers
+17535.0,1,VIP Customers
+17536.0,1,VIP Customers
+17537.0,0,At-Risk Customers
+17538.0,0,At-Risk Customers
+17540.0,0,At-Risk Customers
+17542.0,1,VIP Customers
+17545.0,0,At-Risk Customers
+17548.0,1,VIP Customers
+17549.0,0,At-Risk Customers
+17550.0,1,VIP Customers
+17551.0,1,VIP Customers
+17552.0,0,At-Risk Customers
+17553.0,0,At-Risk Customers
+17554.0,0,At-Risk Customers
+17555.0,0,At-Risk Customers
+17556.0,1,VIP Customers
+17557.0,0,At-Risk Customers
+17560.0,0,At-Risk Customers
+17561.0,0,At-Risk Customers
+17562.0,0,At-Risk Customers
+17564.0,0,At-Risk Customers
+17566.0,0,At-Risk Customers
+17567.0,3,New/Occasional
+17569.0,1,VIP Customers
+17571.0,0,At-Risk Customers
+17572.0,0,At-Risk Customers
+17573.0,0,At-Risk Customers
+17574.0,1,VIP Customers
+17576.0,3,New/Occasional
+17578.0,1,VIP Customers
+17579.0,0,At-Risk Customers
+17580.0,1,VIP Customers
+17581.0,2,Loyal Regulars
+17582.0,1,VIP Customers
+17584.0,0,At-Risk Customers
+17585.0,0,At-Risk Customers
+17588.0,0,At-Risk Customers
+17589.0,0,At-Risk Customers
+17590.0,0,At-Risk Customers
+17591.0,3,New/Occasional
+17593.0,3,New/Occasional
+17594.0,0,At-Risk Customers
+17595.0,0,At-Risk Customers
+17596.0,3,New/Occasional
+17597.0,1,VIP Customers
+17600.0,0,At-Risk Customers
+17601.0,1,VIP Customers
+17602.0,3,New/Occasional
+17603.0,0,At-Risk Customers
+17604.0,1,VIP Customers
+17608.0,0,At-Risk Customers
+17609.0,0,At-Risk Customers
+17611.0,3,New/Occasional
+17612.0,3,New/Occasional
+17613.0,3,New/Occasional
+17614.0,0,At-Risk Customers
+17615.0,0,At-Risk Customers
+17616.0,1,VIP Customers
+17618.0,0,At-Risk Customers
+17619.0,1,VIP Customers
+17620.0,0,At-Risk Customers
+17621.0,0,At-Risk Customers
+17623.0,0,At-Risk Customers
+17624.0,0,At-Risk Customers
+17625.0,0,At-Risk Customers
+17628.0,0,At-Risk Customers
+17629.0,3,New/Occasional
+17630.0,1,VIP Customers
+17631.0,0,At-Risk Customers
+17633.0,0,At-Risk Customers
+17634.0,3,New/Occasional
+17636.0,0,At-Risk Customers
+17637.0,0,At-Risk Customers
+17639.0,1,VIP Customers
+17640.0,0,At-Risk Customers
+17642.0,0,At-Risk Customers
+17643.0,1,VIP Customers
+17644.0,3,New/Occasional
+17646.0,1,VIP Customers
+17647.0,0,At-Risk Customers
+17648.0,0,At-Risk Customers
+17649.0,0,At-Risk Customers
+17650.0,0,At-Risk Customers
+17651.0,3,New/Occasional
+17652.0,3,New/Occasional
+17653.0,0,At-Risk Customers
+17654.0,1,VIP Customers
+17655.0,3,New/Occasional
+17656.0,0,At-Risk Customers
+17658.0,0,At-Risk Customers
+17659.0,3,New/Occasional
+17660.0,0,At-Risk Customers
+17663.0,3,New/Occasional
+17664.0,0,At-Risk Customers
+17666.0,0,At-Risk Customers
+17667.0,0,At-Risk Customers
+17668.0,0,At-Risk Customers
+17669.0,3,New/Occasional
+17670.0,1,VIP Customers
+17671.0,0,At-Risk Customers
+17672.0,0,At-Risk Customers
+17673.0,3,New/Occasional
+17674.0,0,At-Risk Customers
+17676.0,0,At-Risk Customers
+17677.0,2,Loyal Regulars
+17678.0,1,VIP Customers
+17679.0,0,At-Risk Customers
+17680.0,0,At-Risk Customers
+17682.0,3,New/Occasional
+17684.0,0,At-Risk Customers
+17685.0,3,New/Occasional
+17686.0,3,New/Occasional
+17690.0,3,New/Occasional
+17691.0,1,VIP Customers
+17692.0,0,At-Risk Customers
+17693.0,0,At-Risk Customers
+17694.0,0,At-Risk Customers
+17695.0,0,At-Risk Customers
+17696.0,3,New/Occasional
+17697.0,1,VIP Customers
+17698.0,1,VIP Customers
+17700.0,3,New/Occasional
+17701.0,1,VIP Customers
+17702.0,0,At-Risk Customers
+17703.0,0,At-Risk Customers
+17704.0,1,VIP Customers
+17705.0,3,New/Occasional
+17706.0,2,Loyal Regulars
+17707.0,1,VIP Customers
+17708.0,1,VIP Customers
+17709.0,1,VIP Customers
+17711.0,0,At-Risk Customers
+17712.0,0,At-Risk Customers
+17714.0,1,VIP Customers
+17715.0,1,VIP Customers
+17716.0,3,New/Occasional
+17718.0,1,VIP Customers
+17719.0,3,New/Occasional
+17720.0,0,At-Risk Customers
+17722.0,0,At-Risk Customers
+17723.0,3,New/Occasional
+17724.0,0,At-Risk Customers
+17725.0,3,New/Occasional
+17727.0,0,At-Risk Customers
+17728.0,3,New/Occasional
+17730.0,3,New/Occasional
+17731.0,0,At-Risk Customers
+17732.0,1,VIP Customers
+17733.0,0,At-Risk Customers
+17734.0,0,At-Risk Customers
+17735.0,2,Loyal Regulars
+17736.0,0,At-Risk Customers
+17737.0,0,At-Risk Customers
+17738.0,0,At-Risk Customers
+17739.0,3,New/Occasional
+17742.0,0,At-Risk Customers
+17744.0,3,New/Occasional
+17746.0,1,VIP Customers
+17747.0,0,At-Risk Customers
+17749.0,1,VIP Customers
+17750.0,3,New/Occasional
+17752.0,1,VIP Customers
+17754.0,0,At-Risk Customers
+17757.0,2,Loyal Regulars
+17758.0,3,New/Occasional
+17759.0,0,At-Risk Customers
+17760.0,0,At-Risk Customers
+17761.0,0,At-Risk Customers
+17763.0,1,VIP Customers
+17764.0,0,At-Risk Customers
+17765.0,1,VIP Customers
+17767.0,0,At-Risk Customers
+17768.0,0,At-Risk Customers
+17769.0,3,New/Occasional
+17770.0,1,VIP Customers
+17771.0,0,At-Risk Customers
+17772.0,0,At-Risk Customers
+17774.0,0,At-Risk Customers
+17775.0,1,VIP Customers
+17777.0,0,At-Risk Customers
+17779.0,0,At-Risk Customers
+17781.0,1,VIP Customers
+17783.0,0,At-Risk Customers
+17785.0,0,At-Risk Customers
+17786.0,0,At-Risk Customers
+17787.0,0,At-Risk Customers
+17788.0,0,At-Risk Customers
+17789.0,1,VIP Customers
+17790.0,3,New/Occasional
+17791.0,0,At-Risk Customers
+17793.0,0,At-Risk Customers
+17795.0,1,VIP Customers
+17796.0,0,At-Risk Customers
+17797.0,0,At-Risk Customers
+17799.0,3,New/Occasional
+17800.0,3,New/Occasional
+17802.0,0,At-Risk Customers
+17805.0,0,At-Risk Customers
+17806.0,0,At-Risk Customers
+17809.0,3,New/Occasional
+17811.0,2,Loyal Regulars
+17812.0,0,At-Risk Customers
+17813.0,0,At-Risk Customers
+17816.0,0,At-Risk Customers
+17817.0,0,At-Risk Customers
+17819.0,3,New/Occasional
+17824.0,0,At-Risk Customers
+17827.0,0,At-Risk Customers
+17828.0,0,At-Risk Customers
+17829.0,1,VIP Customers
+17830.0,0,At-Risk Customers
+17831.0,0,At-Risk Customers
+17832.0,0,At-Risk Customers
+17835.0,0,At-Risk Customers
+17836.0,0,At-Risk Customers
+17837.0,3,New/Occasional
+17838.0,3,New/Occasional
+17839.0,0,At-Risk Customers
+17843.0,1,VIP Customers
+17844.0,0,At-Risk Customers
+17848.0,3,New/Occasional
+17849.0,1,VIP Customers
+17850.0,2,Loyal Regulars
+17852.0,0,At-Risk Customers
+17854.0,1,VIP Customers
+17855.0,1,VIP Customers
+17856.0,0,At-Risk Customers
+17857.0,2,Loyal Regulars
+17858.0,3,New/Occasional
+17859.0,1,VIP Customers
+17860.0,1,VIP Customers
+17861.0,3,New/Occasional
+17862.0,1,VIP Customers
+17863.0,3,New/Occasional
+17864.0,0,At-Risk Customers
+17865.0,2,Loyal Regulars
+17866.0,0,At-Risk Customers
+17867.0,0,At-Risk Customers
+17869.0,0,At-Risk Customers
+17870.0,3,New/Occasional
+17871.0,1,VIP Customers
+17873.0,0,At-Risk Customers
+17874.0,1,VIP Customers
+17877.0,1,VIP Customers
+17878.0,0,At-Risk Customers
+17879.0,1,VIP Customers
+17880.0,1,VIP Customers
+17881.0,1,VIP Customers
+17883.0,0,At-Risk Customers
+17884.0,0,At-Risk Customers
+17885.0,0,At-Risk Customers
+17886.0,0,At-Risk Customers
+17887.0,0,At-Risk Customers
+17888.0,0,At-Risk Customers
+17889.0,1,VIP Customers
+17890.0,1,VIP Customers
+17891.0,1,VIP Customers
+17892.0,0,At-Risk Customers
+17893.0,1,VIP Customers
+17894.0,3,New/Occasional
+17895.0,0,At-Risk Customers
+17896.0,0,At-Risk Customers
+17897.0,1,VIP Customers
+17898.0,0,At-Risk Customers
+17899.0,1,VIP Customers
+17900.0,1,VIP Customers
+17901.0,0,At-Risk Customers
+17904.0,0,At-Risk Customers
+17905.0,0,At-Risk Customers
+17906.0,1,VIP Customers
+17908.0,1,VIP Customers
+17911.0,0,At-Risk Customers
+17912.0,1,VIP Customers
+17913.0,0,At-Risk Customers
+17914.0,0,At-Risk Customers
+17917.0,0,At-Risk Customers
+17919.0,0,At-Risk Customers
+17920.0,3,New/Occasional
+17921.0,0,At-Risk Customers
+17923.0,1,VIP Customers
+17924.0,3,New/Occasional
+17925.0,1,VIP Customers
+17926.0,0,At-Risk Customers
+17928.0,0,At-Risk Customers
+17929.0,0,At-Risk Customers
+17930.0,0,At-Risk Customers
+17931.0,0,At-Risk Customers
+17932.0,0,At-Risk Customers
+17934.0,0,At-Risk Customers
+17935.0,0,At-Risk Customers
+17936.0,0,At-Risk Customers
+17937.0,3,New/Occasional
+17939.0,1,VIP Customers
+17940.0,3,New/Occasional
+17941.0,0,At-Risk Customers
+17942.0,0,At-Risk Customers
+17946.0,1,VIP Customers
+17947.0,0,At-Risk Customers
+17948.0,0,At-Risk Customers
+17950.0,0,At-Risk Customers
+17951.0,0,At-Risk Customers
+17954.0,3,New/Occasional
+17955.0,1,VIP Customers
+17956.0,1,VIP Customers
+17957.0,0,At-Risk Customers
+17958.0,0,At-Risk Customers
+17960.0,1,VIP Customers
+17961.0,2,Loyal Regulars
+17962.0,0,At-Risk Customers
+17964.0,0,At-Risk Customers
+17965.0,3,New/Occasional
+17966.0,0,At-Risk Customers
+17967.0,1,VIP Customers
+17968.0,1,VIP Customers
+17969.0,1,VIP Customers
+17970.0,1,VIP Customers
+17972.0,1,VIP Customers
+17973.0,0,At-Risk Customers
+17974.0,0,At-Risk Customers
+17975.0,3,New/Occasional
+17976.0,1,VIP Customers
+17977.0,0,At-Risk Customers
+17978.0,1,VIP Customers
+17979.0,0,At-Risk Customers
+17980.0,1,VIP Customers
+17984.0,0,At-Risk Customers
+17985.0,0,At-Risk Customers
+17986.0,0,At-Risk Customers
+17987.0,1,VIP Customers
+17988.0,0,At-Risk Customers
+17990.0,1,VIP Customers
+17991.0,1,VIP Customers
+17994.0,0,At-Risk Customers
+17995.0,1,VIP Customers
+17997.0,3,New/Occasional
+17999.0,0,At-Risk Customers
+18001.0,0,At-Risk Customers
+18004.0,1,VIP Customers
+18005.0,0,At-Risk Customers
+18006.0,0,At-Risk Customers
+18008.0,3,New/Occasional
+18009.0,1,VIP Customers
+18010.0,1,VIP Customers
+18011.0,1,VIP Customers
+18013.0,1,VIP Customers
+18014.0,0,At-Risk Customers
+18015.0,0,At-Risk Customers
+18016.0,0,At-Risk Customers
+18017.0,0,At-Risk Customers
+18018.0,0,At-Risk Customers
+18019.0,0,At-Risk Customers
+18022.0,0,At-Risk Customers
+18024.0,1,VIP Customers
+18027.0,0,At-Risk Customers
+18030.0,0,At-Risk Customers
+18032.0,1,VIP Customers
+18033.0,0,At-Risk Customers
+18034.0,0,At-Risk Customers
+18035.0,0,At-Risk Customers
+18036.0,0,At-Risk Customers
+18037.0,0,At-Risk Customers
+18040.0,0,At-Risk Customers
+18041.0,2,Loyal Regulars
+18042.0,0,At-Risk Customers
+18043.0,0,At-Risk Customers
+18044.0,3,New/Occasional
+18045.0,0,At-Risk Customers
+18048.0,1,VIP Customers
+18050.0,1,VIP Customers
+18053.0,0,At-Risk Customers
+18055.0,3,New/Occasional
+18056.0,1,VIP Customers
+18058.0,0,At-Risk Customers
+18059.0,0,At-Risk Customers
+18061.0,3,New/Occasional
+18062.0,1,VIP Customers
+18064.0,0,At-Risk Customers
+18065.0,3,New/Occasional
+18066.0,0,At-Risk Customers
+18067.0,0,At-Risk Customers
+18068.0,1,VIP Customers
+18069.0,0,At-Risk Customers
+18071.0,1,VIP Customers
+18072.0,1,VIP Customers
+18073.0,3,New/Occasional
+18074.0,1,VIP Customers
+18075.0,3,New/Occasional
+18077.0,3,New/Occasional
+18078.0,1,VIP Customers
+18079.0,3,New/Occasional
+18080.0,0,At-Risk Customers
+18081.0,0,At-Risk Customers
+18082.0,0,At-Risk Customers
+18084.0,0,At-Risk Customers
+18085.0,1,VIP Customers
+18086.0,1,VIP Customers
+18087.0,0,At-Risk Customers
+18088.0,0,At-Risk Customers
+18092.0,2,Loyal Regulars
+18093.0,0,At-Risk Customers
+18094.0,3,New/Occasional
+18095.0,1,VIP Customers
+18096.0,0,At-Risk Customers
+18097.0,3,New/Occasional
+18099.0,0,At-Risk Customers
+18101.0,0,At-Risk Customers
+18104.0,0,At-Risk Customers
+18105.0,0,At-Risk Customers
+18106.0,1,VIP Customers
+18108.0,1,VIP Customers
+18109.0,2,Loyal Regulars
+18110.0,0,At-Risk Customers
+18112.0,0,At-Risk Customers
+18113.0,1,VIP Customers
+18114.0,1,VIP Customers
+18116.0,3,New/Occasional
+18117.0,0,At-Risk Customers
+18118.0,2,Loyal Regulars
+18119.0,1,VIP Customers
+18120.0,1,VIP Customers
+18121.0,0,At-Risk Customers
+18122.0,3,New/Occasional
+18123.0,0,At-Risk Customers
+18125.0,0,At-Risk Customers
+18126.0,0,At-Risk Customers
+18127.0,0,At-Risk Customers
+18129.0,1,VIP Customers
+18130.0,0,At-Risk Customers
+18135.0,0,At-Risk Customers
+18136.0,0,At-Risk Customers
+18138.0,1,VIP Customers
+18139.0,3,New/Occasional
+18142.0,1,VIP Customers
+18143.0,0,At-Risk Customers
+18144.0,3,New/Occasional
+18145.0,3,New/Occasional
+18146.0,0,At-Risk Customers
+18147.0,0,At-Risk Customers
+18149.0,0,At-Risk Customers
+18150.0,0,At-Risk Customers
+18151.0,0,At-Risk Customers
+18154.0,0,At-Risk Customers
+18155.0,0,At-Risk Customers
+18156.0,0,At-Risk Customers
+18158.0,0,At-Risk Customers
+18159.0,1,VIP Customers
+18160.0,0,At-Risk Customers
+18161.0,0,At-Risk Customers
+18164.0,0,At-Risk Customers
+18165.0,1,VIP Customers
+18167.0,0,At-Risk Customers
+18168.0,1,VIP Customers
+18169.0,0,At-Risk Customers
+18170.0,0,At-Risk Customers
+18171.0,0,At-Risk Customers
+18172.0,2,Loyal Regulars
+18173.0,0,At-Risk Customers
+18174.0,0,At-Risk Customers
+18176.0,1,VIP Customers
+18177.0,0,At-Risk Customers
+18178.0,0,At-Risk Customers
+18179.0,3,New/Occasional
+18180.0,3,New/Occasional
+18181.0,0,At-Risk Customers
+18183.0,1,VIP Customers
+18184.0,0,At-Risk Customers
+18185.0,1,VIP Customers
+18188.0,0,At-Risk Customers
+18189.0,0,At-Risk Customers
+18190.0,1,VIP Customers
+18191.0,1,VIP Customers
+18192.0,0,At-Risk Customers
+18193.0,1,VIP Customers
+18194.0,0,At-Risk Customers
+18196.0,0,At-Risk Customers
+18198.0,2,Loyal Regulars
+18200.0,0,At-Risk Customers
+18202.0,1,VIP Customers
+18203.0,1,VIP Customers
+18204.0,0,At-Risk Customers
+18205.0,0,At-Risk Customers
+18209.0,0,At-Risk Customers
+18210.0,3,New/Occasional
+18211.0,0,At-Risk Customers
+18212.0,1,VIP Customers
+18213.0,1,VIP Customers
+18215.0,0,At-Risk Customers
+18216.0,0,At-Risk Customers
+18217.0,0,At-Risk Customers
+18218.0,1,VIP Customers
+18219.0,3,New/Occasional
+18220.0,1,VIP Customers
+18221.0,0,At-Risk Customers
+18222.0,0,At-Risk Customers
+18223.0,2,Loyal Regulars
+18224.0,1,VIP Customers
+18225.0,3,New/Occasional
+18226.0,3,New/Occasional
+18227.0,1,VIP Customers
+18228.0,0,At-Risk Customers
+18229.0,2,Loyal Regulars
+18230.0,3,New/Occasional
+18231.0,1,VIP Customers
+18232.0,0,At-Risk Customers
+18233.0,1,VIP Customers
+18235.0,0,At-Risk Customers
+18236.0,0,At-Risk Customers
+18237.0,0,At-Risk Customers
+18239.0,1,VIP Customers
+18240.0,0,At-Risk Customers
+18241.0,3,New/Occasional
+18242.0,0,At-Risk Customers
+18245.0,3,New/Occasional
+18246.0,0,At-Risk Customers
+18248.0,0,At-Risk Customers
+18249.0,0,At-Risk Customers
+18250.0,1,VIP Customers
+18251.0,3,New/Occasional
+18252.0,0,At-Risk Customers
+18255.0,0,At-Risk Customers
+18257.0,3,New/Occasional
+18259.0,0,At-Risk Customers
+18260.0,3,New/Occasional
+18261.0,0,At-Risk Customers
+18262.0,0,At-Risk Customers
+18263.0,0,At-Risk Customers
+18265.0,0,At-Risk Customers
+18268.0,0,At-Risk Customers
+18269.0,1,VIP Customers
+18270.0,0,At-Risk Customers
+18272.0,3,New/Occasional
+18273.0,0,At-Risk Customers
+18274.0,0,At-Risk Customers
+18276.0,0,At-Risk Customers
+18277.0,0,At-Risk Customers
+18278.0,0,At-Risk Customers
+18280.0,1,VIP Customers
+18281.0,1,VIP Customers
+18282.0,0,At-Risk Customers
+18283.0,3,New/Occasional
+18287.0,0,At-Risk Customers
